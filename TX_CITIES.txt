@@ -1,0 +1,68 @@
+Houston, TX, USA
+San Antonio, TX, USA
+Dallas, TX, USA
+Austin, TX, USA
+Fort Worth, TX, USA
+El Paso, TX, USA
+Arlington, TX, USA
+Corpus Christi, TX, USA
+Plano, TX, USA
+Laredo, TX, USA
+Lubbock, TX, USA
+Garland, TX, USA
+Irving, TX, USA
+Amarillo, TX, USA
+Grand Prairie, TX, USA
+McKinney, TX, USA
+Frisco, TX, USA
+Brownsville, TX, USA
+Pasadena, TX, USA
+Killeen, TX, USA
+McAllen, TX, USA
+Mesquite, TX, USA
+Midland, TX, USA
+Denton, TX, USA
+Waco, TX, USA
+Carrollton, TX, USA
+Round Rock, TX, USA
+Abilene, TX, USA
+Pearland, TX, USA
+Richardson, TX, USA
+Odessa, TX, USA
+Sugar Land, TX, USA
+Beaumont, TX, USA
+The Woodlands, TX, USA
+College Station, TX, USA
+Lewisville, TX, USA
+League City, TX, USA
+Tyler, TX, USA
+Wichita Falls, TX, USA
+Allen, TX, USA
+San Angelo, TX, USA
+Edinburg, TX, USA
+Conroe, TX, USA
+Bryan, TX, USA
+Mission, TX, USA
+New Braunfels, TX, USA
+Longview, TX, USA
+Pharr, TX, USA
+Flower Mound, TX, USA
+Baytown, TX, USA
+Cedar Park, TX, USA
+Temple, TX, USA
+Atascocita, TX, USA
+Missouri City, TX, USA
+Georgetown, TX, USA
+North Richland Hills, TX, USA
+Mansfield, TX, USA
+Victoria, TX, USA
+Rowlett, TX, USA
+Harlingen, TX, USA
+Pflugerville, TX, USA
+San Marcos, TX, USA
+Spring, TX, USA
+Euless, TX, USA
+Port Arthur, TX, USA
+Grapevine, TX, USA
+DeSoto, TX, USA
+Galveston, TX, USA

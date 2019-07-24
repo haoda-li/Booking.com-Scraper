@@ -30,9 +30,6 @@ def get_links(location, driver):
         NOTE: Booking.com only shows a max of 1000 results
     """
     
-    
-    print("==== JOB START ====")
-    
     # make the search query
     driver.get('https://www.booking.com/index.html?label=gen173nr-' + \
                '1FCAEoggI46AdIM1gEaCeIAQGYASu4ARnIAQzYAQHoAQH4AQuIAgGoAgO4Aqe03ukFwAIB' +\
@@ -44,7 +41,6 @@ def get_links(location, driver):
     # collect all urls
     urls = set()
     while True:
-        print("collected " + str(len(urls)) + " urls")
         # since selenium is based on automation, 
         # setting a time interval allows data transmission 
         # and will reduce error rate
@@ -58,8 +54,8 @@ def get_links(location, driver):
             # collect the urls
             for e in links:
                 start = e.find("/hotel")
-                end = e.find("?label")
-                wanted = e[start: end]
+                end = e.find(".html")
+                wanted = e[start: end + 5]
                 urls.add(wanted)
             
             WebDriverWait(driver, timeout=10).\
@@ -84,15 +80,3 @@ def get_links(location, driver):
         except exceptions.TimeoutException as te:
             break
     return urls
-    
-
-if __name__ == "__main__":
-    
-    driver = prepare_driver("./chromedriver")
-    urls = get_links("Austin, TX", driver)
-    print("==== COLLECTED " + str(len(urls)) + " URLS ====")
-    driver.quit()
-    
-    with open("links.txt", "w") as f:
-        for e in urls:
-            f.write(e + "\n")
