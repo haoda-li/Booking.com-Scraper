@@ -1,0 +1,205 @@
+------/hotel/us/805-the-high-road-home-home.html
+------/hotel/us/stylish-1br-in-north-austin-331-by-wanderjaunt.html
+------/hotel/us/3900-threadgill-townhome-unit-5-townhouse.html
+------/hotel/us/eastside-modern-marvel.html
+------/hotel/us/saint-cecilia.html
+Deluxe King Studio|CAD 854|2
+------/hotel/us/staylo-luxury-2-bedroom-condo.html
+------/hotel/us/elmtree-cottage.html
+------/hotel/us/america-austin-downtown-sixth-street.html
+Queen Studio - Disability Access/Non-Smoking|CAD 148|5
+Queen Studio - Non-Smoking|CAD 148|5
+King Studio - Non-Smoking|CAD 154|5
+Double Studio with 2 Double Beds - Non-Smoking|CAD 165|5
+------/hotel/us/the-seven-2206.html
+------/hotel/us/budget-inn-austin.html
+Economy Single Room|CAD 70|10
+Economy Single Room - Smoking|CAD 70|4
+Deluxe Room - Non-Smoking|CAD 75|5
+Budget Double Room with Two Double Beds - Non-Smoking|CAD 56|4
+Budget Single Room - Non - Smoking|CAD 75|2
+Budget Double Room with Two Double Beds - Smoking|CAD 56|1
+Economy Double Room|CAD 56|7
+Economy Double Room - Smoking|CAD 56|9
+------/hotel/us/805-the-high-road-farmhouse-home.html
+------/hotel/us/the-lodge-on-walnut-creek.html
+------/hotel/us/comfort-suites-nw-lakeline-austin.html
+Queen Suite with Two Queen Beds - Non-Smoking|CAD 130|5
+------/hotel/us/tiny-tasteful-3-downtown-austin.html
+------/hotel/us/ramada-austin-south.html
+King Room - Non-Smoking|CAD 156|9
+King Room - Mobility Access/Non-Smoking|CAD 156|1
+Double Room with Two Double Beds - Non-Smoking|CAD 156|9
+------/hotel/us/hilton-garden-inn-austin-north.html
+King Room - Evolution|CAD 160|7
+Queen Evolution Room|CAD 160|9
+King Evolution Room with Sofa Bed|CAD 160|9
+Queen Room with Two Queen Beds - Hearing Accessible|CAD 160|2
+Premium King Room|CAD 180|2
+Premium Queen Room with Two Queen Beds|CAD 180|4
+------/hotel/us/sua-casinha-austin.html
+Double Room with Shared Bathroom|CAD 46|1
+Bed in 6-Bed Mixed Dormitory Room|CAD 28|3
+Bed in 6-Bed Female Dormitory Room|CAD 28|3
+Bed in 4-Bed Mixed Dormitory Room|CAD 28|1
+------/hotel/us/dormigo-ranch-apartment-2.html
+------/hotel/us/hotel-south-first-street-austin.html
+Queen Studio - Non-Smoking|CAD 217|5
+Studio with 1 King Bed - Non-Smoking|CAD 223|3
+Studio with 2 Queen Beds - Non-Smoking|CAD 165|5
+Deluxe Studio with 1 King Bed - Non-Smoking|CAD 165|5
+------/hotel/us/arrive-east-austin.html
+------/hotel/us/the-seven-2107.html
+------/hotel/us/five-star-hotel-austin-southpark.html
+Deluxe Room - Two Double Beds|CAD 188|8
+Deluxe King Room - 1 King Bed|CAD 188|8
+Premier Room - 1 King Bed|CAD 200|8
+------/hotel/us/algarita-apartments.html
+------/hotel/us/1br-apt-near-barton-creek-2434-by-wanderjaunt.html
+------/hotel/us/alexanders-getaway.html
+------/hotel/us/the-heart-of-texas-motel.html
+King Room - Non-Smoking|CAD 112|4
+Double Room|CAD 112|6
+------/hotel/us/1br-south-congress-apt-2103-pool-by-wanderjaunt.html
+------/hotel/us/the-skyline-suite-at-zilker.html
+------/hotel/us/1106-w-6th-st-condo-condo.html
+------/hotel/us/huge-lake-travis-home-home.html
+------/hotel/us/dormigo-falls-on-bull-creek-2075.html
+------/hotel/us/residence-inn-austin-downtown-convention-center.html
+Queen Studio with Sofa Bed|CAD 261|5
+One-Bedroom Queen Suite with Sofa Bed|CAD 294|1
+------/hotel/us/courtyard-austin-south.html
+------/hotel/us/hotel-waterford-centre-blvd-austin.html
+Queen Studio|CAD 83|5
+Queen Studio - Non-Smoking|CAD 83|5
+Studio with 2 Double Beds - Non-Smoking|CAD 100|1
+Studio with 2 Double Beds|CAD 100|1
+------/hotel/us/luxe-2br-apt-with-sun-deck-5140-by-wanderjaunt.html
+------/hotel/us/2-story-home-minutes-from-downtown.html
+------/hotel/us/retreat-in-sola-802.html
+------/hotel/us/50th-street-casita.html
+------/hotel/us/3br-east-side-urban-retreat.html
+------/hotel/us/dormigo-falls-apartment-1.html
+------/hotel/us/serene-spacious-2br-2ba-in-hip-south-congress.html
+------/hotel/us/stylish-family-and-business-friendly-2-bed-2-bath-house.html
+------/hotel/us/east-side-retreat-unit-1-home.html
+------/hotel/us/bouldin-home-514.html
+------/hotel/us/university-flat-pool-gym-food-trucks.html
+------/hotel/us/littlefield-lofts-506.html
+------/hotel/us/downtown-austin-1501.html
+------/hotel/us/inter-continental-hotels-resorts-stephen-f-austin.html
+Traditional Room|CAD 261|6
+King Room|CAD 261|6
+Deluxe King Room|CAD 379|6
+Executive King Room - Club Level|CAD 419|4
+Deluxe King Room - Club Level|CAD 458|3
+One-Bedroom Suite|CAD 393|4
+Superior Double Room|CAD 301|4
+Deluxe Room|CAD 327|6
+------/hotel/us/dormigo-ranch-apartment-3.html
+------/hotel/us/fairfield-inn-austin1.html
+King Room|CAD 137|5
+King Suite with Sofa Bed|CAD 150|5
+Double Room with Two Double Beds|CAD 123|5
+------/hotel/us/charming-downtown-3br-2-5ba-home-w-deck.html
+------/hotel/us/best-western-plus-austin-airport-inn-suites.html
+Queen Room with Two Queen Beds - Non-Smoking|CAD 126|9
+Queen Room with Two Queen Beds and Roll-In Shower- Mobility Access/Non-Smoking|CAD 126|1
+------/hotel/us/zaza-austin.html
+------/hotel/us/springhill-suites-austin-north-parmer-lane.html
+King Suite with Sofa Bed|CAD 130|5
+------/hotel/us/the-seven-1903.html
+------/hotel/us/dormigo-red-river-apartment-2.html
+------/hotel/us/modern-2br-by-downtown-austin-265-by-wanderjaunt.html
+------/hotel/us/austin-9420-i-35-north.html
+Standard Queen Room|CAD 79|9
+Standard Double Room with Two Double Beds|CAD 79|9
+Double Room with Mini Fridge - Accessible|CAD 84|1
+Double Room with Two Double Beds - Mini Fridge|CAD 84|1
+Double Room with Micro Fridge - Accessible|CAD 85|1
+Double Room with Two Double Beds - Micro Fridge|CAD 85|1
+Premium Double Room with Micro Fridge - Roll-In Shower /Disability Access|CAD 92|1
+Premium Queen Room with Micro Fridge|CAD 92|7
+Premium Double Room with Two Double Beds and Micro Fridge|CAD 92|3
+------/hotel/us/la-quinta-inn-suites-highland-mall-austin-texas.html
+Double Room with Two Double Beds|CAD 91|9
+Deluxe Double Room with Two Double Beds|CAD 104|9
+------/hotel/us/crestwood-home-home.html
+------/hotel/us/lamar-union-1303.html
+------/hotel/us/archer-austin.html
+Classic King Room|CAD 327|5
+King Suite|CAD 511|10
+Room Selected at Check-In|CAD 471|10
+------/hotel/us/downtown-condo-201.html
+------/hotel/us/spectacular-4br-2ba-austin-home.html
+------/hotel/us/stay-like-locals-in-soco-luxury-2-bedroom-apt.html
+------/hotel/us/dormigo-ranch-apartment-5-austin.html
+------/hotel/us/chic-1br-near-downtown-austin-139-by-wanderjaunt.html
+------/hotel/us/chic-3br-austin-home-by-domio.html
+------/hotel/us/cottage-by-the-pond.html
+------/hotel/us/acl-families-couples-14-mins-from-acl.html
+------/hotel/us/dormigo-eastside-apartment-1-austin.html
+------/hotel/us/east-elizabeth-st-back-houses.html
+------/hotel/us/airy-austin-house.html
+------/hotel/us/lavish-2br-in-south-congress-244-by-wanderjaunt.html
+------/hotel/us/fairmont-austin.html
+King Room|CAD 307|7
+Queen Room with Two Queen Beds|CAD 307|7
+Deluxe King Room|CAD 360|7
+Deluxe Queen Room with Two Queen Beds|CAD 360|7
+Deluxe King Room with Lake View|CAD 360|7
+Deluxe Queen Room with Two Queen Beds and Lake View|CAD 360|7
+Junior King Suite with Park View|CAD 439|7
+Junior Queen Suite with Park View|CAD 439|7
+One-Bedroom King Suite with Park View|CAD 721|7
+------/hotel/us/201-e-4th-st-condo-unit-221-condo.html
+------/hotel/us/littlefield-lofts-501.html
+------/hotel/us/shoal-creek-greenbelt.html
+------/hotel/us/san-jose.html
+Standard Queen Room|CAD 427|2
+Superior Queen Room|CAD 460|1
+Queen Studio|CAD 525|1
+Deluxe King Studio|CAD 558|3
+Deluxe Double Room|CAD 387|2
+------/hotel/us/stylish-1br-in-south-congress-148-by-wanderjaunt.html
+------/hotel/us/hilton-garden-inn-austin-nw-arboretum.html
+King Room - Evolution|CAD 274|9
+Double Evolution Room|CAD 183|9
+------/hotel/us/the-lady-bird.html
+------/hotel/us/hotel-austin.html
+King Suite - Non-Smoking|CAD 91|5
+Queen Room with Two Queen Beds - Non-Smoking|CAD 77|5
+------/hotel/us/the-barton-springs.html
+------/hotel/us/sleeps-4-apartment-2-blocks-from-conv-ctr-47-6th-street.html
+------/hotel/us/days-inn-university-downtown-austin.html
+King Room - Non-Smoking|CAD 169|1
+Deluxe Double Room with Two Double Beds - Non-Smoking|CAD 98|9
+Deluxe King Room - Non-Smoking|CAD 105|1
+------/hotel/us/1br-apt-near-barton-creek-2512-by-wanderjaunt.html
+------/hotel/us/solar-home.html
+------/hotel/us/austin-2707-interregional-highway-south.html
+Double Room with Two Double Beds|CAD 76|9
+Queen Room|CAD 76|9
+------/hotel/us/the-zilker.html
+------/hotel/us/homewood-suites-by-hilton-r-austin-arboretum-nw.html
+One-Bedroom King Suite - Non-Smoking|CAD 169|6
+------/hotel/us/lamar-union-1524.html
+------/hotel/us/hilton-austin-airport.html
+Double Room with Two Double Beds|CAD 175|9
+Deluxe King Room|CAD 188|9
+One-Bedroom King Suite|CAD 227|3
+------/hotel/us/hotel-st-elmo-rd-austin.html
+King Suite - Non-Smoking|CAD 117|5
+Queen Suite with 2 Queen Beds - Non-Smoking|CAD 130|4
+------/hotel/us/wow-nirvana-hot-tub-bars.html
+------/hotel/us/staylo-platform-east.html
+------/hotel/us/staylooms-spacious-sunlit-home-near-downtown.html
+------/hotel/us/aloft-austin-northwest.html
+Aloft King, Guest room, 1 King|CAD 169|5
+Aloft Double Queen, Guest room, 2 Queen|CAD 169|5
+Breezy King, Guest room, 1 King, High floor|CAD 196|5
+Breezy Double Queen, Guest room, 2 Queen, High floor|CAD 196|5
+------/hotel/us/comfy-1br-near-barton-creek-2612-by-wanderjaunt.html
+------/hotel/us/econo-lodge-arboretum.html
+King Room - Non-Smoking|CAD 78|5
+Queen Room with Two Queen Beds - Non-Smoking|CAD 85|5

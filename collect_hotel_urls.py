@@ -10,13 +10,14 @@ from selenium.common import exceptions
 
 
 
-def prepare_driver(path):
+def prepare_driver(path, headless=True):
     """ Initiate the Chrome driver installed in path
     """
     
     options = Options()
     # make the Chrome driver runs in the background
-    options.add_argument('-headless')
+    if headless:
+        options.add_argument('-headless')
     options.add_argument("--lang=en-US")
     
     driver = webdriver.Chrome(path, options=options)

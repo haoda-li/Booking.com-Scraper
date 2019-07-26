@@ -1,0 +1,98 @@
+------/hotel/us/1br-south-congress-apt-2203-pool-by-wanderjaunt.html
+------/hotel/us/austin-social-sanctuary.html
+------/hotel/us/sonder-east-eleventh.html
+------/hotel/us/6th-street-penthouse.html
+------/hotel/us/dormigo-eastside-apartment-9.html
+------/hotel/us/comfort-suites-austin-airport.html
+King Suite|CAD 137|5
+Queen Suite with Two Queen Beds - Non-Smoking|CAD 150|5
+------/hotel/us/la-quinta-austin-airport.html
+Deluxe King Room|CAD 156|9
+King Room - Disability Access|CAD 156|2
+Deluxe King Room - Non-Smoking|CAD 183|3
+Deluxe Executive King Suite - Non-Smoking|CAD 196|2
+Standard Room with Two Double Beds|CAD 169|9
+------/hotel/us/downtown-studio-201.html
+------/hotel/us/comfort-inn-austin-austin-texas.html
+Queen Room with Two Queen Beds|CAD 117|5
+King Suite with Sofa Bed - Non-Smoking|CAD 143|5
+------/hotel/us/staylooms-lone-star-sanctuary-off-e-6th-street.html
+------/hotel/us/1br-south-congress-apt-2132-pool-by-wanderjaunt.html
+------/hotel/us/la-quinta-inn-austin-oltorf.html
+King Room|CAD 98|6
+Deluxe King Room|CAD 105|7
+Two Double Beds|CAD 85|9
+Deluxe Room with Two Double Beds|CAD 105|3
+King Suite - Non-Smoking|CAD 112|1
+------/hotel/us/relaxing-1br-downtown-austin-445-by-wanderjaunt.html
+------/hotel/us/luxury-nook.html
+------/hotel/us/east-downtown-home-2207.html
+------/hotel/us/red-roof-inn-austin-north.html
+Deluxe Double Room with Two Double Beds - Non-Smoking|CAD 55|9
+Deluxe Double Room with Two Double Beds - Disability Access/Non-Smoking|CAD 55|1
+Deluxe King Room - Non-Smoking|CAD 99|9
+Deluxe Double Room with Two Double Beds - Smoking|CAD 60|3
+Deluxe King Room - Disability Access With Roll In Shower - Non-Smoking|CAD 99|1
+Deluxe King Room - Smoking|CAD 102|2
+Superior King Room - Non-Smoking|CAD 105|3
+------/hotel/us/acl-perfect-for-couples-10-mins-from-acl-austin.html
+------/hotel/us/holiday-inn-express-suites-austin-northwest-highway-620-183.html
+Queen Room with Two Queen Beds - Disability Access|CAD 137|1
+Room Selected at Check-In|CAD 137|6
+King Suite|CAD 143|6
+Queen Suite|CAD 150|6
+------/hotel/us/brentwood-home-1500.html
+------/hotel/us/south-2nd-apartment-1806.html
+------/hotel/us/country-garden-inn-and-suites.html
+King Room - Non-Smoking|CAD 105|4
+One Queen Bed Accessible Non-Smoking|CAD 105|1
+Queen Room - Non-Smoking|CAD 138|3
+Queen Room with Two Queen Beds - Non-Smoking|CAD 92|4
+------/hotel/us/homewood-suites-austin-south.html
+Double Room with Two Double Beds with Bath Tub - Hearing Accessible/Non-Smoking|CAD 242|2
+Queen Suite with Two Queen Beds - Non-Smoking|CAD 242|4
+------/hotel/us/element-austin-downtown.html
+King Room|CAD 511|10
+------/hotel/us/hotelette-austin.html
+------/hotel/us/4-bedroom-east-austin-home-by-domio.html
+------/hotel/us/south-congress.html
+------/hotel/us/downtown-austin-modern-retreat-pool-hot-tub-oasis-estate.html
+------/hotel/us/austin-11601-domain-drive.html
+Guest room, 2 Queen|CAD 235|5
+------/hotel/us/the-domain-premier-suites-by-sonder.html
+------/hotel/us/doubletree-guest-suites-austin.html
+King Suite - Disability Access/Non-Smoking|CAD 314|2
+King Suite - Non-Smoking|CAD 327|9
+------/hotel/us/mansion-at-judges-hill-austin-texas.html
+Classic Queen Room|CAD 248|3
+Deluxe King Room|CAD 288|4
+Deluxe Junior Suite|CAD 314|1
+------/hotel/us/hyde-park-house.html
+------/hotel/us/courtyard-austin-north-parmer-lane.html
+King Room|CAD 143|5
+Queen Room with Two Queen Beds|CAD 130|5
+------/hotel/us/ut-social-suite-pool-gym.html
+------/hotel/us/quality-inn-suites-airport.html
+King Room|CAD 171|5
+Queen Room with Two Queen Beds|CAD 144|5
+King Suite|CAD 158|5
+Queen Suite|CAD 171|5
+------/hotel/us/w-austin.html
+Cozy Room, Guest room, 1 Queen|CAD 393|5
+Fabulous Room, Guest room, 1 Queen|CAD 419|5
+Wonderful Room, Guest room, 1 King|CAD 432|5
+Wonderful Room, Guest room, 2 Queen|CAD 471|5
+Spectacular Room, Guest room, 1 King|CAD 485|5
+Spectacular, Guest room, 2 Queen|CAD 524|5
+Cool Corner Suite, 1 Bedroom Suite, 1 King, Corner room|CAD 984|5
+------/hotel/us/the-austin-refuge-at-zilker.html
+------/hotel/us/hotel-north-i-austin.html
+------/hotel/us/hyatt-regency-austin.html
+King Room|CAD 261|9
+Queen Room with Two Queen Beds|CAD 261|9
+Queen Room with Two Queen Beds - River View|CAD 288|7
+King Room - Disability Access|CAD 294|1
+Queen Room with Two Queen Beds with View|CAD 334|3
+Queen Room with Patio - River View|CAD 340|1
+King Suite with Sofa Bed - River View|CAD 393|1
+------/hotel/us/staylooms-luxury-skyline-oasis-rooftop-pool.html
