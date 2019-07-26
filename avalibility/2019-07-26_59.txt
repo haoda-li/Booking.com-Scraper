@@ -1,0 +1,68 @@
+------us/2212-rosewood-all-listings.html
+------us/san-antonio-4621-east-rittiman-road.html
+Standard Queen Room - Non-Smoking|CAD 104|8
+Standard Queen Room - Smoking|CAD 104|9
+Double Room with 2 Double Beds Non-Smoking|CAD 109|1
+Double Room with Two Double Beds - Smoking|CAD 109|9
+Superior King Room|CAD 121|6
+------us/resort-at-new-braunfels.html
+------us/el-constante-106k.html
+------us/comfort-suites-alamo-riverwalk.html
+------us/downtown-austin-1501.html
+------us/lake-getaway-w-casita-at-the-hollows-resort-home.html
+------us/seascape-2120-condo.html
+------us/beach-country-cottage-cbc153k.html
+------us/seaside-wishes-cgs621.html
+------us/econo-lodge-arboretum.html
+Queen Room with Two Queen Beds - Non-Smoking|CAD 104|5
+------us/seagull-cottage.html
+------us/stay-express-inn.html
+Double Room with Two Double Beds - Non-Smoking|CAD 105|5
+Double Room with Two Double Beds - Smoking|CAD 105|2
+King Room - Smoking|CAD 105|4
+King Room - Non-Smoking|CAD 105|5
+------us/towneplace-suites-san-antonio-downtown.html
+------us/galveston-7404-avenue-j.html
+Double Room|CAD 218|9
+Queen Room - Disability Access/Roll-in Shower|CAD 218|1
+Standard Queen Room|CAD 218|9
+Deluxe Queen Room|CAD 227|1
+Deluxe Double Room with Two Double Beds|CAD 227|2
+Deluxe Room - Disability Access|CAD 227|2
+------us/days-inn-new-braunfels.html
+Standard King Room - Smoking|CAD 215|5
+King Room - Non-Smoking|CAD 215|9
+Queen Room with Two Queen Beds - Non-Smoking|CAD 215|2
+King Room - Disability Access|CAD 215|1
+Deluxe King Room - Non-Smoking|CAD 242|1
+------us/kingdom-village-2.html
+------us/indigo-houston-at-the-galleria.html
+Two Queen Beds Two Room Suite - Non-Smoking|CAD 301|1
+Standard Room|CAD 169|6
+King Room|CAD 169|6
+One-Bedroom Suite|CAD 235|6
+Executive Suite|CAD 248|2
+------us/houston-2205-barker-oaks-drive.html
+Room Selected at Check-In|CAD 116|6
+King Room|CAD 116|6
+Queen Room with Two Queen Beds|CAD 129|6
+Queen Suite with Sofa Bed|CAD 129|5
+King Suite with Sofa Bed|CAD 129|4
+------us/le-meridien-houston-downtown.html
+Guest Room, 1 King|CAD 196|5
+Guest room, 2 Queen|CAD 196|5
+Suite, 1 King, Sofa bed|CAD 261|5
+------us/courtyard-by-marriott-lubbock-downtown.html
+King Room|CAD 235|5
+Queen Room with Two Queen Beds|CAD 261|3
+------us/seas-the-day-galveston.html
+------us/surfside-119.html
+------us/fairfield-inn-dallas.html
+Double Room with Two Double Beds|CAD 209|5
+King Room|CAD 209|3
+------us/river-haus-new-braunfels.html
+------us/ramada-suites-el-paso-77230.html
+King Suite with Sofa Bed - Non-Smoking|CAD 98|9
+------us/hackberry-st-b-renovated-2br-near-downtown-sa.html
+------us/seascape-2117.html
+------us/new-listing-luxurious-estate-w-lakeside-views-home.html

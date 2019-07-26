@@ -1,0 +1,269 @@
+------us/doubletree-dallas-near-the-galleria.html
+King Room - Non-Smoking|CAD 181|4
+Executive King Room - Non-Smoking|CAD 215|3
+------us/hilltop-hacienda.html
+------us/wingate-by-wyndham-corpus-christi.html
+King Room - Non-Smoking|CAD 223|7
+Deluxe Queen Studio - Non-Smoking|CAD 246|4
+Queen Studio Suite - Mobility Access/Non-Smoking|CAD 273|1
+------us/homewood-suites-san-antonio-seaworld.html
+------us/uptown-dallas-711.html
+------us/surfside-213.html
+------us/la-quinta-inn-suites-dallas-grand-prairie-north.html
+King Room|CAD 196|6
+Executive King Room with Sofa Bed|CAD 215|1
+------us/scottish-inns-fort-worth.html
+King Room|CAD 85|3
+King Room with Spa Bath|CAD 171|1
+Queen Room with Two Queen Beds|CAD 95|3
+------us/bluedoorbnb.html
+------us/entertainment-district-home.html
+------us/lamb-39-s-rest-inn.html
+------us/seascape-2212.html
+------us/staybridge-suites-el-paso-airport-area.html
+------us/holidya-inn-express-suites-houston-memorial-park-area.html
+King Room - Non-Smoking|CAD 176|6
+Room Selected at Check-In|CAD 176|6
+Queen Room with Two Queen Beds - Non-Smoking|CAD 176|6
+King Suite - Non-Smoking|CAD 196|6
+Standard Double Suite|CAD 228|3
+------us/holiday-inn-express-suites-arlington-six-flags-area.html
+Business Room, Guest room, 1 King|CAD 143|5
+Deluxe Room, Larger Guest room, 2 Queen|CAD 143|5
+Wellness Suite, 1 Bedroom Suite, 1 King, City view|CAD 143|5
+------us/executive-inn-new-braunfels.html
+Deluxe King Room - Non-Smoking|CAD 196|3
+King Room - Smoking|CAD 196|1
+Queen Room with Two Queen Beds - Non-Smoking|CAD 196|8
+Queen Room with Two Queen Beds - Smoking|CAD 196|3
+------us/villa-west-inn.html
+King Room - Non-Smoking|CAD 112|2
+King Room - Smoking|CAD 112|2
+Queen Room with Two Queen Beds - Non-Smoking|CAD 125|2
+Queen Room with 2 Queen Beds - Smoking|CAD 125|4
+------us/springhill-suites-houston-katy-mills.html
+King Studio with Sofa Bed|CAD 104|5
+------us/america-best-inn-and-suites-abilene.html
+King Room - Non-Smoking|CAD 81|10
+Double Room|CAD 88|10
+------us/surfside-118.html
+------us/residence-inn-dallas-park-central.html
+Queen Studio with Sofa Bed|CAD 112|5
+One-Bedroom Queen Suite with Sofa Bed|CAD 118|5
+------us/hyatt-house-dallas-las-colinas.html
+------us/comal-river-cottages-new-braunfels12.html
+------us/la-quinta-inn-amp-suites-abilene-mall.html
+King Room|CAD 169|5
+Queen Room with Two Queen Beds|CAD 183|9
+King Suite|CAD 183|8
+King Room - Mobility Access/Non-Smoking|CAD 183|3
+King Suite - Non-Smoking|CAD 202|1
+------us/best-western-plus-pasadena-inn-suites.html
+Queen Room with Two Queen Beds - Non Smoking|CAD 149|2
+King Room - Non Smoking|CAD 152|1
+King Room with Roll-In Shower - Disability Access|CAD 154|1
+King Room with Kitchenette - Non-smoking|CAD 158|3
+King Room with Kitchenette - Disability Access|CAD 158|1
+Queen Room with Two Queen Beds with Kitchenette- Non Smoking|CAD 164|3
+Deluxe King Suite - Non Smoking|CAD 176|4
+King Suite with Bathtub - Disability Access|CAD 176|1
+------us/springhill-suites-austin-round-rock.html
+King Suite with Sofa Bed|CAD 130|5
+------us/1br-apt-near-barton-creek-2436-by-wanderjaunt.html
+------us/wanderstay-houston.html
+Bunk Bed in Female Dormitory Room|CAD 45|8
+Bed in 4-Bed Mixed Dormitory Room|CAD 48|3
+Bed in 4-Bed Mixed Dormitory Room|CAD 48|4
+Bed in 4-Bed Mixed Dormitory Room|CAD 52|4
+Single Bed in Mixed Dormitory Room|CAD 59|2
+Single Bed in Mixed Dormitory Room|CAD 59|2
+------us/the-worthington-renaissance-fort-worth.html
+King or Double Room|CAD 235|5
+Queen Room with Two Queen Beds|CAD 274|5
+Guest King Room|CAD 288|5
+------us/studio-6-new-braunfels-tx.html
+King Room with Kitchenette - Non-Smoking|CAD 184|6
+Queen Room with Two Queen Beds and Kitchennette- Disability Access/Non-Smoking|CAD 184|1
+------us/la-quinta-inn-amp-suites-houston-nw-beltway8-west-road.html
+Deluxe King Room|CAD 104|9
+Executive King Room|CAD 117|6
+Deluxe King Room with Mobility/Hearing Impaired Access - Non-Smoking|CAD 117|1
+Deluxe Queen Room with Two Queen Beds|CAD 104|9
+------us/lazy-daze-rg210-condo.html
+------us/at-the-beach-galveston.html
+------us/3226-avenue-p-home-home.html
+------us/hotel-university-drive-east-college-station.html
+Queen Room with Two Queen Beds - Non-Smoking|CAD 118|4
+King Suite - Non-Smoking|CAD 210|1
+------us/magnolia-inn.html
+King Suite|CAD 112|7
+Queen Room with Two Queen Beds|CAD 125|10
+King Suite with Spa Bath|CAD 177|1
+Family Suite|CAD 177|3
+------us/heaven-in-the-hollows.html
+------us/ramada-limited-wichita-falls.html
+King Room - Non-Smoking|CAD 66|9
+Double Room|CAD 66|7
+------us/austin-cottage-on-cypress-creek.html
+------us/el-constante-202.html
+------us/206-sun-surf-sand.html
+------us/el-constante-204.html
+------us/luxury-townhome-near-cowboys-stadium-sixflags-rangers-ballpark.html
+------us/la-quinta-inn-college-station.html
+------us/the-lazy-a-rr-7221-home.html
+------us/starfish-bay.html
+------us/victorian-5204-walkin-on-sunshine-condo.html
+------us/blue-paradise-rr8554-home.html
+------us/village-by-the-beach-b911k.html
+------us/holiday-inn-express-and-suites-killeen-fort-hood-area.html
+Standard Room|CAD 202|5
+Executive King Suite|CAD 202|4
+King Suite - Hearing Accessible|CAD 202|1
+Queen Room with Two Queen Beds|CAD 189|1
+------us/dormigo-ninth-street-apartment-4.html
+------us/abram-inn-arlington.html
+------us/hotel-kenly-ave-wichita-falls.html
+Deluxe King Room - Non-Smoking|CAD 130|5
+King Room - Non-Smoking|CAD 130|5
+Queen Room with Two Queen Beds - Non-Smoking|CAD 143|5
+------us/scottish-inn-amp-suites-humble1.html
+King Room|CAD 83|5
+King Room|CAD 83|6
+King Room - Disability Access|CAD 91|1
+King Studio|CAD 91|3
+Deluxe King Studio|CAD 91|1
+Deluxe Double Room (2 Adults + 1 Child)|CAD 100|5
+Deluxe Double Room|CAD 100|1
+Standard Double Suite|CAD 136|1
+------us/executive-inn-fort-worth-west.html
+King Room - Non-Smoking|CAD 103|9
+Double Room with Two Queen Beds|CAD 103|10
+King Room - Disability Access|CAD 103|1
+------us/luxury-group-house-with-pool.html
+------us/hyatt-house-houston-47-energy-corridor.html
+Studio Suite 1 King|CAD 130|9
+King Suite - Disability Access|CAD 130|4
+One-Bedroom King Suite|CAD 156|9
+Executive Ste 2 Dbl|CAD 163|5
+------us/la-quinta-inn-lubbock-downtown-civic-center.html
+Deluxe King Room|CAD 110|9
+Deluxe Suite - Non-Smoking|CAD 130|1
+Deluxe Executive King Suite - Non-Smoking|CAD 130|1
+Double Room with Two Double Beds|CAD 104|9
+Deluxe Double Room with Two Double Beds|CAD 110|9
+------us/sonder-soco.html
+------us/towneplace-suites-by-marriott-el-paso-east-i-10.html
+------us/embassy-suites-dallas-dfw-international-airport-south.html
+King Suite with Bath Tub - Disability Access/Non-Smoking|CAD 177|2
+King Suite - Non-Smoking|CAD 177|9
+King Suite with Shower - Disability Access/Non-Smoking|CAD 177|2
+Premium King Suite - Non-Smoking|CAD 204|5
+------us/luxury-1br-in-downtown-austin-1603-by-wanderjaunt.html
+------us/knights-inn-san-marcos.html
+King Room- Non-Smoking|CAD 117|2
+Queen Room with Two Queen Beds - Smoking|CAD 130|1
+Standard Queen Room with Two Queen Beds - Non-Smoking|CAD 130|10
+Queen Suite - Non-Smoking|CAD 196|3
+Junior Suite|CAD 209|2
+King Room with Two King Beds - Non-Smoking|CAD 209|2
+------us/coastal-bliss-cspn116k.html
+------us/holiday-inn-express-tomball.html
+------us/cardinal-casita.html
+------us/staybridge-suites-austin-airport.html
+Queen Studio - Non-Smoking|CAD 131|6
+One-Bedroom Queen Suite - Non-Smoking|CAD 142|5
+Standard Suite|CAD 152|6
+King Suite - Non-Smoking|CAD 152|6
+One-Bedroom Suite with Two Queen Beds|CAD 185|4
+------us/motel-6-bryan-college-station.html
+------us/waterfront-getaway-tlhkk.html
+------us/1br-south-congress-apt-2419-pool-by-wanderjaunt.html
+------us/studio-6-corpus-christi-corpus-christi.html
+------us/midtown-luxury-47-main-street-wonder-houston.html
+------us/river-inn-san-antonio.html
+------us/fairfield-inn-suites-by-marriott-lubbock-southwest.html
+King Suite with Sofa Bed|CAD 189|4
+------us/element-dfw.html
+Guest Room, 1 King|CAD 130|4
+Studio, 1 King, Sofa bed|CAD 143|5
+Studio, 2 Queen|CAD 143|5
+1 Bedroom Suite, 1 King, Sofa bed|CAD 156|5
+Executive Suite, 1 King, Sofa bed|CAD 196|1
+------us/laredo-800-garden-street.html
+King Room - Non-Smoking|CAD 105|9
+King Room - Non-Smoking|CAD 105|3
+Double Room with Two Double Beds - Non-Smoking|CAD 118|9
+Double Room with Two Double Beds - Non-Smoking|CAD 118|8
+Standard Single Room - Non-Smoking|CAD 118|3
+Standard Single Room - Non-Smoking|CAD 171|1
+King Room with Sofa Bed - Non-Smoking|CAD 105|9
+King Room with Sofa Bed - Non-Smoking|CAD 105|2
+Standard Double Room - Non-Smoking|CAD 131|9
+Standard Single Room - Non-Smoking|CAD 171|1
+------us/courtyard-by-marriott-houston-nasa-nassau-bay.html
+King Room with Sofa Bed|CAD 169|5
+One-Bedroom King Suite with Sofa Bed|CAD 183|1
+------us/pharr-205-nolana.html
+King Leisure Room|CAD 158|5
+King Suite with Sofa Sleeper - Non-Smoking|CAD 125|1
+Two-Rooms King Suite with Sofa Sleeper - Non-Smoking|CAD 197|1
+Standard Room|CAD 171|6
+Queen Room with Two Queen Beds - Non-Smoking|CAD 138|5
+------us/beach-getaway-cbc365k.html
+------us/quality-inn-abilene.html
+King Room - Non-Smoking|CAD 123|5
+Queen Room with Two Queen Beds - Non-Smoking|CAD 137|5
+King Suite with Sofa Bed - Non-Smoking|CAD 150|5
+------us/victorian-1205-room-with-a-view-condo.html
+------us/home-and-guest-house-2113.html
+------us/residence-inn-by-marriott-lubbock-southwest.html
+Studio, 1 King, Sofa bed|CAD 169|5
+------us/village-by-the-beach-l814k.html
+------us/archer-austin.html
+Classic King Room|CAD 393|10
+King Suite|CAD 511|10
+Queen Room with Two Queen Beds|CAD 288|8
+Room Selected at Check-In|CAD 471|10
+------us/holiday-inn-express-suites-dallas-galleria-area.html
+Standard Room|CAD 215|5
+Deluxe King Room|CAD 228|1
+Deluxe Room|CAD 242|1
+King Room with Whirlpool|CAD 242|1
+------us/residence-inn-by-marriott-houston-pasadena.html
+King Studio|CAD 183|5
+One-Bedroom Suite|CAD 222|5
+------us/3900-threadgill-townhome-unit-5-townhouse.html
+------us/seascape-1221-condo.html
+------us/el-constante-235k.html
+------us/comfort-suites-sea-world-lackland-san-antonio.html
+------us/hampton-inn-suites-houston-medical-ctr-reliant-park.html
+Standard King Room|CAD 143|6
+Double Room - Non-Smoking|CAD 143|9
+Double Room - Hearing Accessible/Non-Smoking|CAD 156|2
+King Studio with Sofa Bed - Non-Smoking|CAD 169|2
+Non-Smoking King Suite with Kitchen|CAD 196|7
+Non-Smoking Double Suite with Kitchen|CAD 196|3
+------us/comal-corral-ic110-condo.html
+------us/weslaco-2716-east-business-83.html
+Standard King Room|CAD 79|4
+King Room - Smoking|CAD 87|1
+King Room with Two King Beds - Non Smoking|CAD 92|4
+King Room with Sofa Bed - Non Smoking|CAD 92|3
+King Room - Non-Smoking|CAD 92|1
+King Room with Two King Beds - Smoking|CAD 105|1
+King Room with Spa Bath|CAD 131|1
+------us/new-modern-4-story-east-downtown-townhome-w-47-balcony-and-terrace.html
+------us/hotel-i-thirty-five-north-waco.html
+King Suite - Non-Smoking|CAD 171|5
+Queen Suite with Two Queen Beds - Non-Smoking|CAD 184|5
+------us/beachside-bungalow-galveston.html
+------us/west-campus-condos-by-one-fine-flat.html
+------us/towneplace-suites-austin-northwest.html
+Queen Studio with Sofa Bed|CAD 130|5
+Two-Bedroom Suite|CAD 209|3
+------us/inn-amp-suites-dallas-dfw-airport-north.html
+Deluxe King Room|CAD 143|9
+King Room - Disability Access|CAD 143|2
+Standard Room with Two Double Beds|CAD 130|8
+Standard Room with Two Double Beds - Disability Access|CAD 130|1
+Deluxe Double Room with Two Double Beds - Non-Smoking|CAD 137|4

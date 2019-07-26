@@ -2,7 +2,7 @@ from collect_hotel_urls import *
 
 if __name__ == "__main__":
     
-    driver = prepare_driver("./chromedriver.exe")
+    driver = prepare_driver("./chromedriver")
     f = open("TX_CITIES.txt", "r")
     urls = set()
     for line in f:

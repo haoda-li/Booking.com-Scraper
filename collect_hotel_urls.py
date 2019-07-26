@@ -19,6 +19,7 @@ def prepare_driver(path, headless=True):
     if headless:
         options.add_argument('-headless')
     options.add_argument("--lang=en-US")
+    options.add_argument('--disable-gpu')
     
     driver = webdriver.Chrome(path, options=options)
     return driver
