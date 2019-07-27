@@ -31,7 +31,7 @@ def get_availabilities_from_listings(filename, date_in, driver):
 
         fw.write("------" + address + "\n")
         try:
-            driver.get("https://www.booking.com/hotel/"+address+"?label=gen173nr-1FCAEoggI46AdIM1gEaCeIAQGYAQm4ARnIAQzYAQHoAQH4AQuIAgGoAgO4ArOF6ukFwAIB;sid=586f4aac96691ec9be6e32c8ed90589b;all_sr_blocks=7591018_189982941_4_42_0;checkin=2019-07-26;checkout=2019-07-27;dest_id=20126394;dest_type=city;dist=0;group_adults=2;hapos=1;highlighted_blocks=7591018_189982941_4_42_0;hpos=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;srepoch=1564115654;srpvid=6d6b2022cbc302c7;type=total;ucfs=1&#hotelTmpl")
+            driver.get("https://www.booking.com/hotel/"+address+".en-gb.html?checkout_year=2019&checkout_month=07&checkout_monthday=28&checkin_year=2019&checkin_month=07&checkin_monthday=27&selected_currency=USD&changed_currency=1&top_currency=1&lang=en-gb&group_adults=1&no_rooms=1")
             table = driver.find_element_by_css_selector(".hprt-table.hprt-table-long-language ")
             tbody = table.find_element_by_css_selector("tbody")
             trs = tbody.find_elements_by_css_selector("tr")
