@@ -1,0 +1,356 @@
+------us/hilton-houston-westchase
+Superior King Room - Allergy Free|US$138|6
+Double Room|US$143|10
+King Room|US$143|10
+Double Room with Two Double Beds - Allergy Friendly/Non-Smoking|US$148|4
+Deluxe Double Room with Two Double Beds|US$153|2
+Deluxe King Room|US$153|6
+One-Bedroom Suite|US$158|10
+Executive King Room|US$158|10
+Junior Suite|US$158|8
+King Room with Sofa Bed|US$163|6
+Executive Double Room with Two Double Beds|US$163|4
+------us/cozy-home-waco1
+Standard Queen Room|US$75|9
+Three-Bedroom Townhouse|US$129|2
+------us/hampton-inn-corpus-christi-padre-island
+King Room - Non-Smoking|US$149|7
+Deluxe King Room - Mobility Access/Non-Smoking|US$159|1
+Deluxe King Room - Non-Smoking|US$179|1
+Queen Room with Two Queen Beds - Mobility Access/Non-Smoking|US$179|3
+Queen Room with Two Queen Beds - Non-Smoking|US$179|9
+Suite with Two Queen Beds - Non-Smoking|US$229|5
+------us/executive-inn-dallas1
+Standard Double Room with Two Double Beds - Non-Smoking|US$65|5
+Standard King Room - Non-Smoking|US$65|5
+------us/fifty-three-north-riverside-fort-worth-fossil-creek
+King Suite|US$109|5
+King Suite with Balcony|US$129|5
+Queen Suite|US$109|5
+------us/la-copa-inn-mercedes
+Queen Room with Two Queen Beds - Non-Smoking|US$69|5
+King Suite - Non-Smoking|US$99|5
+Queen Room with Two Queen Beds - Non-Smoking|US$94|5
+------us/nw-medical-center-san-antonio-texas
+King Room - Smoking|US$54|3
+Double Room with Two Double Beds - Smoking|US$54|6
+Double Room with Two Double Beds - Non-Smoking|US$54|9
+Queen Room - Disability Access/Non-Smoking|US$54|1
+King Room - Non-Smoking|US$56|9
+Queen Room with Two Queen Beds - Non-Smoking|US$58|9
+Queen Room with Two Queen Beds - Smoking|US$58|2
+------us/odessa
+Double Room with Two Double Beds|US$75|2
+------us/holiday-inn-express-suites-hutto
+King Room|US$104|6
+Queen Room with Two Queen Beds|US$159|6
+Room Selected at Check-In|US$159|6
+King Suite|US$169|6
+Queen Suite|US$179|4
+------us/austin-condo-301
+------us/courtyard-by-marriott-dallas-arlington-south
+King Room with Sofa Bed|US$129|5
+Queen Room with Two Queen Beds|US$129|2
+------us/courtyard-harlingen
+King Room with Sofa Bed|US$99|5
+Double Room with Two Double Beds|US$99|5
+------us/kasa-frisco-apartments
+------us/victorian-3220-coastal-morning-condo
+------us/inn-the-woodlands-north
+Double Room with Two Double Beds|US$75|9
+King Room|US$75|9
+Deluxe Double Room with Two Double Beds|US$80|9
+Deluxe King Room|US$80|9
+Deluxe King Room - Mobility Access/Non-Smoking|US$80|2
+------us/villa-del-sol-surfside
+------us/luna-retreat
+------us/lamar-union-1444
+------us/hampton-inn-suites-austin-lakeway
+King Studio Suite - Non-Smoking|US$153|9
+Deluxe King Room - Non-Smoking|US$153|7
+King Room with Spa Bath - Non-Smoking|US$153|2
+Queen Room with Two Queen Beds - Non-Smoking|US$153|9
+------us/holiday-inn-club-vacations-villages-resort
+Two-Bedroom Villa Lodge with Two Queen Beds|US$209|6
+Standard Room|US$209|6
+Two-Bedroom Villa Grand with Two King Beds|US$239|6
+------us/college-station-3702-highway-6-south
+King Room - Non-Smoking|US$41|3
+Queen Room with Two Queen Beds - Non-Smoking|US$47|3
+------us/fairfield-inn-and-suites-by-marriott-houston-the-woodlands
+Queen Room|US$94|3
+King Room|US$99|1
+King Studio with Sofa Bed|US$104|5
+Queen Room with Two Queen Beds|US$94|5
+------us/palacio-royale-inn-boutique
+King Room - Disability Access|US$58|1
+King Room|US$56|10
+Deluxe King Room|US$61|4
+Double Room|US$59|3
+Deluxe Double Room|US$62|10
+------us/hotel-interstate-27-lubbock
+King Room - Non-Smoking|US$79|5
+Queen Room with Two Queen Beds - Non-Smoking|US$64|5
+------us/residence-inn-by-marriott-san-angelo
+King Studio|US$119|5
+One-Bedroom Suite|US$129|5
+Two-Bedroom Suite|US$139|1
+------us/urban-chic-loft-walk-to-river-pearl-brewery-b2
+Loft|US$120|1
+------us/pathway-102-2-bed-1-bath-apartment-in-beach-club-corpus-christi
+------us/sanger-inn
+King Room - Smoking|US$60|1
+Queen Room with Two Queen Beds - Non-Smoking|US$60|10
+King Room - Non-Smoking|US$60|4
+Queen Room with Two Queen Beds - Smoking|US$60|4
+------us/stylish-1-bedroom-condo-with-city-view
+Apartment with Pool View|US$169|1
+Apartment with Pool View|US$169|1
+------us/sanmarcos-1611-ih35
+King Room - Disability Access/Non-Smoking/Ground Floor|US$109.99|3
+King Room - Non-Smoking/Ground Floor|US$109.99|5
+Queen Room with Two Queen Beds - Non-Smoking/Upper Floor|US$75|5
+Queen Room with Two Queen Beds - Non-Smoking/Ground Floor|US$80|5
+------us/san-antonio-302-san-antonio-riverwalk
+Queen Room with Two Queen Beds - Smoking|US$85|2
+King Studio Suite - Smoking|US$85|2
+King Studio Suite - Non-Smoking|US$85|8
+King Room - Non-Smoking|US$135|8
+Queen Room with Two Queen Beds - Non-Smoking|US$85|9
+King Room - Disability Access - Smoking|US$115|1
+King Room - Disability Access - Non-Smoking|US$115|1
+King Room - Smoking|US$115|1
+Queen Studio Suite with Two Queen Beds - Non-Smoking|US$115|8
+------us/holiday-inn-express-houston
+Queen Room with Two Queen Beds|US$124|6
+Standard Room|US$129|6
+King Room|US$129|6
+Standard Suite with Sofa Bed|US$139|6
+King Suite with Sofa Bed|US$139|6
+------us/railyard-condos-by-onyx-hotels
+------us/beach-daze-villa
+------us/stargazer-wimberley
+------us/redawning-dawn-631
+------us/fairfield-inn-san-antonio3
+King Room|US$99|5
+------us/days-inn-and-suites-houston-north-houston
+King Room - Non-Smoking|US$57|9
+Queen Room with Two Queen Beds - Non-Smoking|US$57|9
+King Room - Disability Access - Non-Smoking|US$57|1
+Queen Room with Two Queen Beds - Disability Access - Non-Smoking|US$57|2
+King Room - Smoking|US$66|7
+Queen Room with Two Queen Beds - Smoking|US$66|6
+Deluxe King Room with Spa Bath - Non-Smoking|US$102|2
+------us/riverwalk-vista
+------us/home2-suites-san-antonio-at-the-rim
+King Studio Suite - Non Smoking|US$139|9
+One-Bedroom King Suite - Non-Smoking|US$154|3
+Queen Suite with Two Queen Beds - Non-Smoking|US$149|9
+Queen Suite with Two Queen Beds - Mobility/Hearing Accessible - Non-Smoking|US$149|3
+------us/comal-river-cottages
+------us/holiday-inn-express-arlington-i-20-parks-mall
+Standard Room|US$119|6
+King Room|US$119|6
+Queen Room with Two Queen Beds|US$129|6
+King Suite|US$134|6
+Queen Suite|US$139|6
+------us/element-austin-round-rock
+------us/homewood-suites-san-antonio-airport
+Queen Suite with Two Queen Beds - Non-Smoking|US$109|4
+King Suite - Non Smoking|US$119|9
+Queen Suite - Mobility/Hearing Accessible - Non-Smoking|US$129|2
+------us/el-constante-119
+------us/hilton-garden-inn-beaumont
+King Room - Non-Smoking|US$214|9
+Queen Room with Two Queen Beds - Non-Smoking|US$114|9
+King Room - Disability Access|US$214|2
+Queen Room with Two Queen Beds - Disability Access|US$114|2
+King Junior Suite|US$129|5
+------us/the-bohemian-wimberley
+------us/fairfield-inn-by-marriott-waco-south
+King Room|US$89|5
+Queen Room with Two Queen Beds|US$89|5
+Large King Studio|US$99|3
+------us/blue-the-woodlands
+King Room|US$71|10
+Queen Room|US$80|10
+------us/holiday-inn-el-paso-airport
+Queen Room with Two Queen Beds|US$179|6
+King Room|US$189|6
+King Room - Disability Access Tub|US$159|3
+Standard Double or Twin Room|US$199|6
+King Room with Sofa Bed - Non-Smoking|US$199|6
+------us/travelers-inn-channelview
+King Room|US$60|3
+Queen Room with Two Queen Beds|US$70|3
+------us/scottish-inn-amp-suites-kingwood
+Deluxe Quadruple Room|US$55|2
+Deluxe Double Room|US$60|6
+------us/old-east-dallas-3111
+------us/old-east-dallas-4062
+------us/americas-best-value-inn-austin-texas
+King Room - Non-Smoking|US$54|10
+King Room - Smoking|US$70|5
+Queen Room with Two Queen Beds - Non-Smoking|US$44|10
+Queen Room with Two Queen Beds - Smoking|US$44|6
+------us/super-8-wichita-falls-wichita-falls
+Queen Room - Mobility Access/Non-Smoking|US$60|1
+Business King Room - Non-Smoking|US$60|9
+Double Room with Two Double Beds - Mobility Access/Non-Smoking|US$65|2
+Double Room with Two Double Beds - Non-Smoking|US$65|9
+------us/sheraton-gunter-san-antonio-texas
+Guest room, 1 Queen|US$179|5
+Guest room, 2 Double|US$179|4
+Guest Room, 1 King|US$179|5
+Guest room, 2 Queen|US$189|5
+Guest Room, 1 King|US$139|2
+Executive Suite, King, Alternate bed: sofa bed, Sofa bed|US$159|3
+Concierge level, Guest room, 2 Queen|US$169|5
+Concierge level, Guest room, 1 King|US$219|5
+------us/la-quinta-inn-amp-suites-odessa-north
+Deluxe King Room|US$105|9
+King Room - Disability Access|US$105|1
+Executive King Room|US$115|9
+Deluxe Queen Room with Two Queen Beds|US$125|9
+Queen Room with Two Queen Beds and Mobility/Hearing Access - Non-Smoking|US$125|1
+King Suite - Non-Smoking|US$145|3
+------us/holiday-inn-amarillo-east
+Queen Room with Two Queen Beds - Non-Smoking|US$125|6
+Room with Two Beds - Hearing Accessible - Non-Smoking|US$125|6
+Suite with Two Beds - Non-Smoking|US$145|6
+King Suite - Non-Smoking|US$145|6
+Standard Room|US$145|6
+------us/hotel-hymeadow-rd-austin
+Studio One Queen Bed with Disability Access - Non-Smoking|US$51|3
+Studio with One Queen Bed - Non-Smoking|US$51|9
+Studio with 2 Queen Beds - Non-Smoking|US$60|9
+------us/mill-house
+Holiday Home|US$179|1
+------us/melbourne-manor
+------us/blockhaus-lodge-wilhelm-house
+------us/holiday-inn-express-suites-mesquite
+Queen Room with Two Queen Beds - Non-Smoking|US$99|6
+King Room - Non-Smoking|US$104|6
+King Room - Disability Access|US$104|2
+Standard Room|US$108|6
+One-Bedroom Queen Suite with Sofa Bed|US$118|3
+------us/hill-country-home
+------us/wilbarger-point-guest-house
+------us/texas-on-the-lake
+------us/dormigo-red-river-apartment-1
+------us/haltom-inn
+King Room|US$65|4
+Double Room|US$74|3
+Deluxe King Room|US$99|2
+------us/woodspring-suites-corpus-christi
+One Bed Suite|US$99|9
+------us/country-inn-suites-by-carlson-austin-north
+King Studio Suite - Non-Smoking|US$88|9
+Studio Suite with Two Queen Beds - Non-Smoking|US$92|9
+Studio Suite with Two Queen Beds - Disability Access/Non-Smoking|US$92|1
+King Room with Sofa Bed|US$94|3
+Queen Studio Suite with Roll-in Shower - Disability Access/Non-Smoking|US$94|1
+Queen Room with Two Queen Beds|US$98|9
+Queen Room with Two Queen Beds - Disability Access|US$98|1
+------us/staybridge-suites-tyler-university-area
+Queen Studio|US$129|6
+Standard Room|US$139|6
+One-Bedroom King Suite|US$129|4
+One-Bedroom Queen Suite with Two Queen Beds|US$139|6
+Two-Bedroom Suite with Queen and Double Beds|US$159|2
+------us/super-8-abilene-north
+King Room - Non-Smoking|US$49|9
+King Room - Smoking|US$59|5
+Queen Room with Two Queen Beds - Smoking|US$64|9
+Queen Room with Two Queen Beds - Non-Smoking|US$64|9
+------us/courtyard-dallas-las-colinas
+Queen Room with Two Queen Beds|US$139|5
+King Room|US$149|5
+King Suite|US$181|5
+------us/best-western-southgate-inn
+King Room|US$65|5
+Queen Room with Two Queen Beds|US$75|5
+------us/new-listing-updated-home-w-decks-walk-to-beach-home
+------us/cozy-bohemian-nook-15-minutes-from-downtown
+------us/seascape-2317-condo
+------us/candlewood-suites-plano-east
+Queen Studio - Non-Smoking|US$86|6
+Standard Studio|US$96|6
+King Studio - Non-Smoking|US$96|6
+One-Bedroom King Suite - Non-Smoking|US$111|6
+------us/the-hideaway-galveston
+------us/gaido-s-seaside-inn
+Deluxe King Disability- Downstairs No Beach View|US$129|1
+King Room with Ocean View - Upstairs|US$209|3
+King Room with Ocean View - Downstairs|US$159|1
+Deluxe Double Room - Upstairs|US$129|7
+Standard Room with Two Double Beds with Ocean View - Upstairs|US$159|8
+Standard Room with Two Double Beds with Ocean View - Downstairs|US$159|6
+Standard Room with Two Double Beds with Pool Side - Downstairs|US$159|3
+Family Room with Ocean View - Upstairs|US$189|1
+------us/travelodge-denton
+King Room - Non-Smoking|US$64|9
+Queen Room with Two Queen Beds - Non-Smoking|US$68|9
+Queen Room - Non-Smoking|US$68|9
+Double Room - Mobility Access/Non-Smoking|US$68|1
+King Studio Suite - Non-Smoking|US$99|1
+------us/hill-country-lake-home
+------us/towneplace-suites-dallas-lewisville
+Queen Studio with Two Queen Beds|US$109|10
+King Studio with Sofa Bed|US$109|10
+------us/reposado
+------us/pearl-of-the-bay
+------us/hampton-inn-and-suites-hutto
+Queen Room with Two Queen Beds|US$102|9
+Queen Room with Two Queen Beds - Hearing Accessible|US$102|2
+Queen Room with Two Queen Beds - Disability Access|US$102|2
+King Room|US$112|4
+King Studio|US$123|9
+------us/tres-hermanas-inn-odessa
+King Studio with Sofa Bed|US$129|5
+King Suite with Sofa Bed|US$139|3
+Queen Studio|US$139|5
+------us/studio-6-houston-spring
+Queen Room - Non-Smoking|US$56|9
+------us/crowne-plaza-austin
+Standard Room|US$79|6
+King Room - Non-Smoking|US$79|6
+Executive King Room - Non-Smoking|US$111|6
+Double Room with Two Double Beds - Non-Smoking|US$79|6
+Executive Double Room with Two Double Beds - Non-Smoking|US$111|3
+------us/elm-street-apartment-by-stay-alfred
+------us/ponderosa-cabin-cabin
+------us/georgetown-451-north-ih-35
+Queen Studio - Non-Smoking|US$99|6
+Queen Studio - Disability Access|US$99|2
+Room Selected at Check-In|US$109|6
+King Studio - Non-Smoking|US$109|3
+Studio Suite with Two Double Beds - Non-Smoking|US$109|6
+------us/courtyard-houston-sugar-land
+Large King Room with Sofa Bed|US$75|5
+King Room with Sofa Bed|US$71|5
+Double Room with Two Double Beds|US$79|5
+King Suite|US$79|2
+------us/courtyard-houston-by-the-galleria
+Queen Room with Two Queen Beds|US$119|5
+King Room with Sofa Bed and Galleria View|US$119|5
+Executive King Room with Sofa Bed|US$149|5
+Executive Queen Room with Two Queen Beds|US$159|5
+One-Bedroom King Suite with Galleria View|US$139|4
+------us/victorian-inn-midland
+King Room - Non-Smoking|US$65|1
+King Room - Smoking|US$65|2
+Double Room with Two Double Beds - Non-Smoking|US$80|2
+Double Room with Two Double Beds - Smoking|US$80|2
+------us/candlewood-suites-dallas-market-center
+Standard Suite|US$95|6
+Queen Studio - Non-Smoking|US$95|6
+One-Bedroom Suite with Sofa Bed - Non-Smoking|US$95|6
+One-Bedroom Suite - Disability Access/Non-Smoking|US$95|1
+One-Bedroom Double Suite - Non-Smoking|US$95|6
+------us/econo-lodge-houston-hobby
+King Room - Non-Smoking|US$50|4
+King Room - Smoking|US$50|3
+Queen Room with Two Queen Beds - Non-Smoking|US$55|5
+Queen Room with Two Queen Beds - Smoking|US$55|5
+------us/2113-barbaro-way-cabin-unit-15-cabin
