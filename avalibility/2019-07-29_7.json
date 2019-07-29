@@ -1,0 +1,2602 @@
+[
+  {
+    "link": "us/fairfield-inn-suites-by-marriott-wichita-falls-northwest",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "149",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room",
+        "price": "149",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/executive-inn-midland",
+    "rooms": [
+      {
+        "type": "Standard Queen Room",
+        "price": "70",
+        "left": "1"
+      },
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "80",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/hyatt-place-houston-nw-vintage-park",
+    "rooms": [
+      {
+        "type": "Room, 2 Queen Beds",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "Room, 1 King Bed",
+        "price": "139",
+        "left": "9"
+      },
+      {
+        "type": "Room, 1 King Bed (High Floor)",
+        "price": "144",
+        "left": "9"
+      },
+      {
+        "type": "Room, 2 Queen Beds (High Floor)",
+        "price": "144",
+        "left": "7"
+      }
+    ]
+  },
+  {
+    "link": "us/lubbock-2515-19th-street",
+    "rooms": [
+      {
+        "type": "Standard Room",
+        "price": "119",
+        "left": "6"
+      },
+      {
+        "type": "Queen Studio with Sofa Bed",
+        "price": "119",
+        "left": "6"
+      },
+      {
+        "type": "Queen Studio Suite with Roll in Shower - Disability Access",
+        "price": "119",
+        "left": "1"
+      },
+      {
+        "type": "Queen Studio Suite with Bath Tub - Disability Access",
+        "price": "119",
+        "left": "2"
+      },
+      {
+        "type": "One-Bedroom King Suite with Sofa Bed",
+        "price": "134",
+        "left": "6"
+      }
+    ]
+  },
+  {
+    "link": "us/springhill-suites-laredo",
+    "rooms": [
+      {
+        "type": "King Suite with Sofa Bed",
+        "price": "149",
+        "left": "5"
+      },
+      {
+        "type": "Double Suite with Sofa Bed",
+        "price": "139",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/fairfield-inn-by-marriott-abilene",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "114",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "109",
+        "left": "5"
+      },
+      {
+        "type": "King Room with Sofa Bed",
+        "price": "119",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/mountain-star-lodge",
+    "rooms": [
+      {
+        "type": "Deluxe King Room",
+        "price": "109",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe King Suite",
+        "price": "159",
+        "left": "4"
+      },
+      {
+        "type": "Deluxe Queen Room",
+        "price": "119",
+        "left": "10"
+      }
+    ]
+  },
+  {
+    "link": "us/express-inn-and-suites-humble",
+    "rooms": [
+      {
+        "type": "Deluxe King Room",
+        "price": "59",
+        "left": "7"
+      },
+      {
+        "type": "Deluxe Double Room",
+        "price": "74.99",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/springhill-suites-by-marriott-houston-rosenberg",
+    "rooms": [
+      {
+        "type": "King Studio with Sofa Bed",
+        "price": "99",
+        "left": "5"
+      },
+      {
+        "type": "Queen Studio with Two Queen Beds",
+        "price": "109",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/courtyard-dallas-central-expressway-dallas",
+    "rooms": [
+      {
+        "type": "King Room with Sofa Bed",
+        "price": "124",
+        "left": "5"
+      },
+      {
+        "type": "Deluxe King Room with Sofa Bed",
+        "price": "134",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "114",
+        "left": "5"
+      },
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds",
+        "price": "124",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/comfort-inn-dallas",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "73.99",
+        "left": "9"
+      },
+      {
+        "type": "King Room",
+        "price": "73.99",
+        "left": "9"
+      },
+      {
+        "type": "King Room with Bath - Disability Access",
+        "price": "73.99",
+        "left": "1"
+      },
+      {
+        "type": "Executive King Room",
+        "price": "78.99",
+        "left": "2"
+      },
+      {
+        "type": "King Suite with Sofa Bed",
+        "price": "93.99",
+        "left": "1"
+      },
+      {
+        "type": "King Suite with Spa Bath",
+        "price": "113.99",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/executive-inn-amp-suites-killeen",
+    "rooms": [
+      {
+        "type": "Single Room with Bathroom",
+        "price": "33.92",
+        "left": "5"
+      },
+      {
+        "type": "Deluxe Queen Room",
+        "price": "38.26",
+        "left": "2"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "45.22",
+        "left": "5"
+      },
+      {
+        "type": "Quadruple Room",
+        "price": "51.30",
+        "left": "2"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "66",
+        "left": "4"
+      }
+    ]
+  },
+  {
+    "link": "us/doubletree-houston-intercontinental-airport",
+    "rooms": [
+      {
+        "type": "Double Room - Non-Smoking",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Room",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Double Room Non-Smoking",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Hearing Accessible/Non-Smoking",
+        "price": "129",
+        "left": "4"
+      },
+      {
+        "type": "Double Room - Hearing Accessible/Non-Smoking",
+        "price": "129",
+        "left": "7"
+      },
+      {
+        "type": "King Suite",
+        "price": "159",
+        "left": "2"
+      },
+      {
+        "type": "One-Bedroom Suite",
+        "price": "179",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/best-western-plus-katy-74958",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "75.69",
+        "left": "8"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "75.69",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds and Bathtub - Disability Access",
+        "price": "75.69",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds and Roll-In Shower - Disability Access",
+        "price": "75.69",
+        "left": "1"
+      },
+      {
+        "type": "King Room - Hearing Accessible",
+        "price": "75.69",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Hearing Accessible",
+        "price": "75.69",
+        "left": "1"
+      },
+      {
+        "type": "King Suite",
+        "price": "84.39",
+        "left": "9"
+      },
+      {
+        "type": "King Suite - Disability Access",
+        "price": "84.39",
+        "left": "1"
+      },
+      {
+        "type": "King Suite with Kitchen",
+        "price": "101.79",
+        "left": "2"
+      },
+      {
+        "type": "King Suite with Kitchen - Disability Access",
+        "price": "101.79",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-select-dallas-north-galleria-area",
+    "rooms": [
+      {
+        "type": "Standard King Room",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "Standard Queen Room with Two Queen Beds",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access",
+        "price": "129",
+        "left": "1"
+      },
+      {
+        "type": "Superior King Room - Disability Access",
+        "price": "129",
+        "left": "6"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Disability Access",
+        "price": "129",
+        "left": "1"
+      },
+      {
+        "type": "Corner King Room - Non-Smoking",
+        "price": "152.15",
+        "left": "9"
+      },
+      {
+        "type": "Queen Romm with Two Queen Beds - Non-Smoking",
+        "price": "160.65",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/super-8-spring-89194",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "54",
+        "left": "9"
+      },
+      {
+        "type": "Business King Room - Non-Smoking",
+        "price": "59",
+        "left": "8"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "59",
+        "left": "4"
+      },
+      {
+        "type": "King Room - Smoking",
+        "price": "59",
+        "left": "6"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "59",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/motel-6-bammel-houston",
+    "rooms": [
+      {
+        "type": "King Room with Micro Fridge - Non-Smoking",
+        "price": "39.99",
+        "left": "8"
+      },
+      {
+        "type": "King Room - Smoking",
+        "price": "39.99",
+        "left": "3"
+      },
+      {
+        "type": "King Room - Disability Access/Non-Smoking",
+        "price": "39.99",
+        "left": "1"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "39.99",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "45.99",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "45.99",
+        "left": "8"
+      },
+      {
+        "type": "Double Room with Two Double Beds and Micro Fridge - Non-Smoking",
+        "price": "48.99",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/howard-johnson-san-antonio",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "46.79",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Smoking",
+        "price": "46.79",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "49.49",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access/Non-Smoking",
+        "price": "92.69",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/indigo-austin-downtown",
+    "rooms": [
+      {
+        "type": "Standard Double or Twin Room",
+        "price": "239",
+        "left": "6"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Hearing Accessible",
+        "price": "259",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/hyatt-house-dallas-47-addison",
+    "rooms": [
+      {
+        "type": "One-Bedroom King Suite",
+        "price": "134",
+        "left": "2"
+      },
+      {
+        "type": "One-Bedroom Queen Suite - Disability Access/Non-Smoking",
+        "price": "134",
+        "left": "4"
+      },
+      {
+        "type": "Two-Bedroom King Suite",
+        "price": "149",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/butler-brothers-building",
+    "rooms": [
+      {
+        "type": "Luxury One-Bedroom Apartment",
+        "price": "87",
+        "left": "1"
+      },
+      {
+        "type": "Superior One-Bedroom Apartment",
+        "price": "100",
+        "left": "1"
+      },
+      {
+        "type": "Deluxe Two-Bedroom Apartment",
+        "price": "114",
+        "left": "2"
+      },
+      {
+        "type": "Superior Two-Bedroom Apartment",
+        "price": "127",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/el-paso-953-sunland-park-drive",
+    "rooms": [
+      {
+        "type": "King Room - Disability Access/Non-Smoking",
+        "price": "59.39",
+        "left": "4"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "59.39",
+        "left": "5"
+      },
+      {
+        "type": "King Suite - Non-Smoking",
+        "price": "63.89",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/astro-best-inn",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "75.22",
+        "left": "10"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-express-fort-worth-west",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "104",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "114",
+        "left": "6"
+      },
+      {
+        "type": "Standard Double or Twin Room",
+        "price": "159",
+        "left": "6"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "134",
+        "left": "1"
+      },
+      {
+        "type": "Executive Queen Suite",
+        "price": "144",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/hampton-inn-suites-mcallen",
+    "rooms": [
+      {
+        "type": "King Studio",
+        "price": "165",
+        "left": "9"
+      },
+      {
+        "type": "King Room Roll-In-Shower Hearing Access- Non-Smoking",
+        "price": "165",
+        "left": "2"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "155",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/allen-at-the-village",
+    "rooms": [
+      {
+        "type": "Family Room King Bed with City/Park View Non Msoking",
+        "price": "94",
+        "left": "9"
+      },
+      {
+        "type": "Family Suite King bed with City/Park View Non Smoking",
+        "price": "99",
+        "left": "2"
+      },
+      {
+        "type": "King Room with City/Park View - Non MSoking\u00c2 ",
+        "price": "89",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds City/Park View Non Smoking",
+        "price": "89",
+        "left": "4"
+      }
+    ]
+  },
+  {
+    "link": "us/home2-suites-by-hilton-plano-richardson",
+    "rooms": [
+      {
+        "type": "King Studio Suite - Non Smoking",
+        "price": "143",
+        "left": "9"
+      },
+      {
+        "type": "King Studio Suite - Hearing Accessible",
+        "price": "143",
+        "left": "4"
+      },
+      {
+        "type": "One-Bedroom King Suite - Non-Smoking",
+        "price": "153",
+        "left": "3"
+      },
+      {
+        "type": "Queen Suite with Two Queen Beds - Non-Smoking",
+        "price": "133",
+        "left": "8"
+      },
+      {
+        "type": "Queen Suite with Two Queen Beds - Hearing Accessible/Non-Smoking",
+        "price": "133",
+        "left": "3"
+      },
+      {
+        "type": "One-Bedroom Queen Suite with Two Queen Beds - Non-Smoking",
+        "price": "153",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/hotel-north-i-austin",
+    "rooms": [
+      {
+        "type": "Deluxe Queen Studio with Sofa Bed - Non-Smoking",
+        "price": "62.49",
+        "left": "4"
+      },
+      {
+        "type": "One Bedroom Suite with 1 Queen Bed - Non-Smoking",
+        "price": "66.99",
+        "left": "5"
+      },
+      {
+        "type": "One Bedroom Suite with 2 Double Beds - Non-Smoking",
+        "price": "71.50",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/super-8-denton",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "67.99",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Smoking",
+        "price": "67.99",
+        "left": "3"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "67.99",
+        "left": "2"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "67.99",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access - Non-Smoking",
+        "price": "67.99",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/elegant-tiny-house-in-waco-near-magnolia",
+    "rooms": [
+      {
+        "type": "Apartment",
+        "price": "106",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/houston",
+    "rooms": [
+      {
+        "type": "Deluxe Room - 2 Queen Beds",
+        "price": "170.10",
+        "left": "8"
+      },
+      {
+        "type": "Deluxe King Room",
+        "price": "170.10",
+        "left": "8"
+      },
+      {
+        "type": "Signature Cityview - 1 King Bed",
+        "price": "179.10",
+        "left": "8"
+      },
+      {
+        "type": "Signature Cityview - 2 Queens",
+        "price": "179.10",
+        "left": "8"
+      },
+      {
+        "type": "Signature Poolview - 1 King Bed",
+        "price": "188.10",
+        "left": "8"
+      },
+      {
+        "type": "Premier Room Poolview - 2 Queen Beds",
+        "price": "188.10",
+        "left": "8"
+      },
+      {
+        "type": "Premier Corner King Room",
+        "price": "197.10",
+        "left": "8"
+      },
+      {
+        "type": "Executive Suite - 1 King Bed",
+        "price": "287.10",
+        "left": "1"
+      },
+      {
+        "type": "Galleria Suite",
+        "price": "287.10",
+        "left": "8"
+      }
+    ]
+  },
+  {
+    "link": "us/courtyard-by-marriott-houston-katy-mills",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "129",
+        "left": "5"
+      },
+      {
+        "type": "King Suite",
+        "price": "149",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "129",
+        "left": "5"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "159",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/comfort-inn-east-tx427",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "85",
+        "left": "5"
+      },
+      {
+        "type": "King Suite with Sofa Bed - Non-Smoking",
+        "price": "90",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "90",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/hotel-greenville-dallas",
+    "rooms": [
+      {
+        "type": "Queen Studio - Non-Smoking",
+        "price": "62.49",
+        "left": "5"
+      },
+      {
+        "type": "Queen studio with 1 Queen Bed - Disability Access/Non-Smoking",
+        "price": "62.49",
+        "left": "5"
+      },
+      {
+        "type": "Studio with 1 King Bed - Non-Smoking",
+        "price": "66.99",
+        "left": "2"
+      },
+      {
+        "type": "Studio with 2 Double Beds - Non-Smoking",
+        "price": "71.49",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/super-8-farmers-branch",
+    "rooms": [
+      {
+        "type": "King Room - Smoking",
+        "price": "69.99",
+        "left": "1"
+      },
+      {
+        "type": "King Room - Disability Access - Smoking",
+        "price": "72.49",
+        "left": "1"
+      },
+      {
+        "type": "King Room - Disability Access - Non-Smoking",
+        "price": "72.49",
+        "left": "1"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "74.99",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "76.24",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Smoking",
+        "price": "76.24",
+        "left": "5"
+      },
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds -Disability Access - Non-Smoking",
+        "price": "81.24",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/fairfield-inn-by-marriott-midland",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "334",
+        "left": "3"
+      },
+      {
+        "type": "Deluxe King Room with Sofa Bed",
+        "price": "244",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "234",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/inn-houston",
+    "rooms": [
+      {
+        "type": "Deluxe King Room with View - Non-Smoking",
+        "price": "51.99",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Room - Smoking",
+        "price": "51.99",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Room, Accessible - Non Smoking",
+        "price": "51.99",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "56.99",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds - Smoking",
+        "price": "56.99",
+        "left": "7"
+      }
+    ]
+  },
+  {
+    "link": "us/regency-inn-and-suites-mckinney-93475",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "68.99",
+        "left": "5"
+      },
+      {
+        "type": "King Suite with Whirlpool - Non-Smoking",
+        "price": "99.99",
+        "left": "4"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "78.99",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/la-quinta-inn-suites-bedford",
+    "rooms": [
+      {
+        "type": "Deluxe King Room",
+        "price": "129",
+        "left": "1"
+      },
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds",
+        "price": "129",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/la-quinta-inn-amp-suites-woodway-waco-south",
+    "rooms": [
+      {
+        "type": "Deluxe King Room",
+        "price": "109",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe King Suite - Non-Smoking",
+        "price": "124",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds",
+        "price": "114",
+        "left": "9"
+      },
+      {
+        "type": "Executive King Room",
+        "price": "114",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Disability Access",
+        "price": "114",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe Executive King Room - Mobility Access/Non-Smoking",
+        "price": "114",
+        "left": "1"
+      },
+      {
+        "type": "King Suite",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Suite - Mobility Access/Non-Smoking",
+        "price": "119",
+        "left": "1"
+      },
+      {
+        "type": "King Apartment - Non-Smoking",
+        "price": "129",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/sheraton-suites-market-center-dallas",
+    "rooms": [
+      {
+        "type": "1 King bed & sofa bed, 1 Bedroom Suite, 1 King, Sofa bed",
+        "price": "129",
+        "left": "5"
+      },
+      {
+        "type": "1 Queen & Sofa bed, 1 Bedroom Suite, Balcony",
+        "price": "129",
+        "left": "5"
+      },
+      {
+        "type": "1 King & 1 Queen Bed, 2 Bedroom Suite, Balcony",
+        "price": "139",
+        "left": "5"
+      },
+      {
+        "type": "2 Queen beds & Sofa bed, Suite, 2 Queen",
+        "price": "139",
+        "left": "5"
+      },
+      {
+        "type": "1 King & Sofa bed, 1 Bedroom Suite, City view, Balcony",
+        "price": "149",
+        "left": "5"
+      },
+      {
+        "type": "1 King & sofa bed, Club level, Suite, Balcony",
+        "price": "159",
+        "left": "5"
+      },
+      {
+        "type": "1 King & 1 Queen Bed, 2 Bedroom Suite, City view, Balcony",
+        "price": "159",
+        "left": "5"
+      },
+      {
+        "type": "1 King & sofa bed, Club level, Suite, City view, Balcony",
+        "price": "179",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/best-western-premier-ashton-suites",
+    "rooms": [
+      {
+        "type": "Queen Suite with Two Queen Beds - Non-Smoking",
+        "price": "109",
+        "left": "9"
+      },
+      {
+        "type": "King Suite with Kitchenette - Non-Smoking",
+        "price": "129",
+        "left": "4"
+      },
+      {
+        "type": "King Suite - Non-Smoking",
+        "price": "109",
+        "left": "9"
+      },
+      {
+        "type": "King Room with Sofa Bed - Disability Access/Non-Smoking",
+        "price": "109",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/la-quinta-inn-and-suites-houston-galleria",
+    "rooms": [
+      {
+        "type": "Deluxe King Room",
+        "price": "129",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access",
+        "price": "129",
+        "left": "4"
+      },
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Disability Access",
+        "price": "119",
+        "left": "2"
+      },
+      {
+        "type": "Executive King Room",
+        "price": "134",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Suite",
+        "price": "149",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/knights-inn-rosenberg",
+    "rooms": [
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "59",
+        "left": "10"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "59",
+        "left": "5"
+      },
+      {
+        "type": "King Room - Disability Access/Smoking",
+        "price": "59",
+        "left": "2"
+      },
+      {
+        "type": "Double Room - Disability Access/Non-Smoking",
+        "price": "59",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/hyatt-house-austin-arboretum",
+    "rooms": [
+      {
+        "type": "King Studio with Sofa Bed",
+        "price": "269",
+        "left": "1"
+      },
+      {
+        "type": "One-Bedroom Suite",
+        "price": "289",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/best-western-medical-center-south",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "114",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Room",
+        "price": "114",
+        "left": "6"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "70.50",
+        "left": "9"
+      },
+      {
+        "type": "King Room with Bath Tub - Disability Access",
+        "price": "119",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/knights-inn-waco-north",
+    "rooms": [
+      {
+        "type": "Double Room - Smoking",
+        "price": "79",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room - Non-Smoking",
+        "price": "84",
+        "left": "5"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "64",
+        "left": "3"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "64",
+        "left": "3"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "89",
+        "left": "4"
+      }
+    ]
+  },
+  {
+    "link": "us/best-western-plus-medical-center",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "104.99",
+        "left": "7"
+      },
+      {
+        "type": "King Room with Walk-in Shower - Disability Access",
+        "price": "104.99",
+        "left": "2"
+      },
+      {
+        "type": "King Room",
+        "price": "104.99",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Shower In Room",
+        "price": "104.99",
+        "left": "6"
+      },
+      {
+        "type": "King Suite with Bath Tub - Disability Access",
+        "price": "114.99",
+        "left": "1"
+      },
+      {
+        "type": "King Suite",
+        "price": "114.99",
+        "left": "7"
+      },
+      {
+        "type": "Queen Suite with Two Queen Beds",
+        "price": "124.99",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/hampton-inn-college-station-near-texas-a-m-university",
+    "rooms": [
+      {
+        "type": "Double Room with Bath Tub - Non-Smoking",
+        "price": "99",
+        "left": "3"
+      },
+      {
+        "type": "Standard Room - Hearing Accessible",
+        "price": "99",
+        "left": "2"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "99",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe King Room with Sofa Bed",
+        "price": "99",
+        "left": "2"
+      },
+      {
+        "type": "Non-Smoking Double/Double Room",
+        "price": "99",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Double Room with Two Double Beds",
+        "price": "99",
+        "left": "6"
+      }
+    ]
+  },
+  {
+    "link": "us/san-angelo-311-north-bryant-boulevard",
+    "rooms": [
+      {
+        "type": "Double Room with Two Double Beds and Kitchen",
+        "price": "59.49",
+        "left": "3"
+      },
+      {
+        "type": "Queen Room with Kitchen",
+        "price": "59.49",
+        "left": "2"
+      },
+      {
+        "type": "Double Room with Two Beds and Micro Fridge",
+        "price": "49.49",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-round-rock",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "114",
+        "left": "6"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Ground Floor",
+        "price": "114",
+        "left": "1"
+      },
+      {
+        "type": "King Room - Mobility Access Tub - Non-Smoking",
+        "price": "114",
+        "left": "2"
+      },
+      {
+        "type": "Standard Room",
+        "price": "119",
+        "left": "6"
+      },
+      {
+        "type": "Queen Suite with Two Queen Beds",
+        "price": "124",
+        "left": "6"
+      }
+    ]
+  },
+  {
+    "link": "us/courtyard-by-marriott-brownsville",
+    "rooms": [
+      {
+        "type": "King Room with Sofa Bed",
+        "price": "149",
+        "left": "3"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "149",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/drifter-jack-s-hostel",
+    "rooms": [
+      {
+        "type": "Bed in a Six-Bedroom room",
+        "price": "29.51",
+        "left": "10"
+      },
+      {
+        "type": "Bed in a Four-Bedroom Room",
+        "price": "34.51",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/relaxing-1br-downtown-austin-347-by-wanderjaunt",
+    "rooms": [
+      {
+        "type": "Apartment",
+        "price": "64",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/double-tree-dfw-airport-north",
+    "rooms": [
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "209",
+        "left": "9"
+      },
+      {
+        "type": "Executive Floor Double Room with Two Double Beds - Non-Smoking",
+        "price": "229",
+        "left": "9"
+      },
+      {
+        "type": "Executive Floor King Room - Non-Smoking",
+        "price": "229",
+        "left": "9"
+      },
+      {
+        "type": "Executive King Room with Murphy Bed",
+        "price": "249",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/ramada-beaumont",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "55.80",
+        "left": "4"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Smoking",
+        "price": "63",
+        "left": "3"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "64.80",
+        "left": "4"
+      }
+    ]
+  },
+  {
+    "link": "us/deluxe-inn--suites",
+    "rooms": [
+      {
+        "type": "Deluxe King Room - Smoking",
+        "price": "47.01",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe Queen Room - Non-Smoking",
+        "price": "51.28",
+        "left": "1"
+      },
+      {
+        "type": "Deluxe Queen Room - Smoking",
+        "price": "51.28",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/lewisville-1705-lakepointe-drive",
+    "rooms": [
+      {
+        "type": "Double Room - Disability Access with roll in Shower",
+        "price": "49.99",
+        "left": "6"
+      },
+      {
+        "type": "Standard Queen Room",
+        "price": "49.99",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "49.99",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Double Room with Two Double Beds",
+        "price": "54.99",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Micro Fridge",
+        "price": "54.99",
+        "left": "2"
+      },
+      {
+        "type": "Premium Double Room with Two Double Beds and Mini Fridge",
+        "price": "57.99",
+        "left": "2"
+      },
+      {
+        "type": "Premium Double Room with Micro Fridge - Roll-In Shower /Disability Access",
+        "price": "59.99",
+        "left": "1"
+      },
+      {
+        "type": "Premium Queen Room with Micro Fridge",
+        "price": "59.99",
+        "left": "2"
+      },
+      {
+        "type": "Premium Double Room with Two Double Beds and Micro Fridge",
+        "price": "59.99",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/courtyard-by-marriott-beaumont",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "169",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/la-quinta-lindale",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "85",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "85",
+        "left": "3"
+      },
+      {
+        "type": "King Room - Mobility Access/Non-Smoking",
+        "price": "85",
+        "left": "2"
+      },
+      {
+        "type": "Deluxe Executive King Room - Non-Smoking",
+        "price": "95",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Family Suite with Mobility/Hearing Impaired Access - Non-Smoking",
+        "price": "120",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/motel-6-mcallen",
+    "rooms": [
+      {
+        "type": "Queen Room",
+        "price": "39.99",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room - Disability Access",
+        "price": "39.99",
+        "left": "3"
+      },
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "43.99",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/inn-dallas-grand-prairie",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "48.99",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "51.99",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "51.99",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/unbeatable-location-near-aa-center-1br-parking",
+    "rooms": [
+      {
+        "type": "One-Bedroom Apartment",
+        "price": "118",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/heart-of-soco-home-6br-47-3ba",
+    "rooms": [
+      {
+        "type": "Holiday Home",
+        "price": "900",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/corpus-christi-3101-east-surfside-boulevard",
+    "rooms": [
+      {
+        "type": "Deluxe King Room",
+        "price": "70",
+        "left": "1"
+      },
+      {
+        "type": "Double Room",
+        "price": "65",
+        "left": "2"
+      },
+      {
+        "type": "Double Room",
+        "price": "69",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-suites-houston-west-katy-mills",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "104",
+        "left": "5"
+      },
+      {
+        "type": "Standard Double Room",
+        "price": "109",
+        "left": "6"
+      },
+      {
+        "type": "King Suite",
+        "price": "124",
+        "left": "6"
+      },
+      {
+        "type": "Queen Room",
+        "price": "104",
+        "left": "6"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "134",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/apartments-at1001-ross",
+    "rooms": [
+      {
+        "type": "One-Bedroom Apartment",
+        "price": "167",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/residence-inn-houston-galleria",
+    "rooms": [
+      {
+        "type": "Queen Studio with Sofa bed and Courtyard view",
+        "price": "159",
+        "left": "5"
+      },
+      {
+        "type": "One-Bedroom Queen Suite with Sofa Bed",
+        "price": "164",
+        "left": "5"
+      },
+      {
+        "type": "Large King Studio",
+        "price": "169",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/hotel-i-35-north-hwy-new-braunfels",
+    "rooms": [
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "55",
+        "left": "5"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "55",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/comfort-suites-arlington",
+    "rooms": [
+      {
+        "type": "King Suite - Non-Smoking",
+        "price": "109",
+        "left": "5"
+      },
+      {
+        "type": "Queen Suite with Two Queen Beds - Non-Smoking",
+        "price": "119",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/fairfield-inn-amp-suites-by-marriott-amarillo-airport",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "144",
+        "left": "5"
+      },
+      {
+        "type": "King Suite",
+        "price": "164",
+        "left": "5"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "154",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/econo-lodge-inn-suites-houston",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "49.99",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "54.99",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/courtyard-addison-quorum",
+    "rooms": [
+      {
+        "type": "King Room with Sofa Bed",
+        "price": "179",
+        "left": "5"
+      },
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "119",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/dallas-vibe-walkable",
+    "rooms": [
+      {
+        "type": "Studio Apartment",
+        "price": "121",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/five-five-zero-eight-deauville-road-midland",
+    "rooms": [
+      {
+        "type": "Queen Studio with Sofa Bed",
+        "price": "279",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/fifty-nine-seventeen-stone-creek-drive-dallas-plano-the-colony",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "139",
+        "left": "5"
+      },
+      {
+        "type": "Large King Room",
+        "price": "154",
+        "left": "5"
+      },
+      {
+        "type": "Large Queen Room",
+        "price": "154",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/tru-by-hilton-bryan-college-station-tx",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "84",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "84",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds with Bath Tub - Mobility Accessible",
+        "price": "84",
+        "left": "2"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Hearing Accessible",
+        "price": "84",
+        "left": "7"
+      }
+    ]
+  },
+  {
+    "link": "us/days-inn-university-downtown-austin",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "114.99",
+        "left": "4"
+      },
+      {
+        "type": "Deluxe Double Room with Two Double Beds - Non-Smoking",
+        "price": "74.99",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access - Non-Smoking",
+        "price": "74.99",
+        "left": "1"
+      },
+      {
+        "type": "Deluxe King Room - Non-Smoking",
+        "price": "79.99",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/havana",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "131.75",
+        "left": "4"
+      },
+      {
+        "type": "Queen Room",
+        "price": "145",
+        "left": "5"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "193.50",
+        "left": "4"
+      },
+      {
+        "type": "Terrace Suite",
+        "price": "225.25",
+        "left": "1"
+      },
+      {
+        "type": "Penthouse Suite",
+        "price": "297.50",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/one-seven-two-one-east-central-killeen",
+    "rooms": [
+      {
+        "type": "One-Bedroom King Suite",
+        "price": "184",
+        "left": "5"
+      },
+      {
+        "type": "King Room with Sofa Bed",
+        "price": "164",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "164",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/staybridge-suites-houston-w-westchase-area",
+    "rooms": [
+      {
+        "type": "Studio Queen Suite - Non-Smoking",
+        "price": "99",
+        "left": "6"
+      },
+      {
+        "type": "Standard Room",
+        "price": "99",
+        "left": "6"
+      },
+      {
+        "type": "One-Bedroom King Suite - Non-Smoking",
+        "price": "119",
+        "left": "6"
+      },
+      {
+        "type": "One-Bedroom Queen Suite -Non-Smoking",
+        "price": "119",
+        "left": "1"
+      },
+      {
+        "type": "One-Bedroom Suite with Two Beds - Non-Smoking",
+        "price": "129",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/home2-suites-by-hilton-san-antonio-airport",
+    "rooms": [
+      {
+        "type": "Queen Studio with Two Queen Beds",
+        "price": "134",
+        "left": "9"
+      },
+      {
+        "type": "Queen Studio with Two Queen Beds - Hearing Accessible",
+        "price": "134",
+        "left": "3"
+      },
+      {
+        "type": "Queen Studio Suite - Hearing Accessible",
+        "price": "134",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/condo-on-the-lake-rockwall",
+    "rooms": [
+      {
+        "type": "One-Bedroom Apartment",
+        "price": "104.17",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/comfort-suites-near-the-woodlands",
+    "rooms": [
+      {
+        "type": "King Suite",
+        "price": "59",
+        "left": "5"
+      },
+      {
+        "type": "King Suite - Disability Access",
+        "price": "59",
+        "left": "1"
+      },
+      {
+        "type": "Queen Suite",
+        "price": "69",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/port-arthur-park-central",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "119",
+        "left": "6"
+      },
+      {
+        "type": "King Room - Smoking",
+        "price": "119",
+        "left": "2"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "129",
+        "left": "6"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "129",
+        "left": "6"
+      },
+      {
+        "type": "Standard Room",
+        "price": "139",
+        "left": "6"
+      }
+    ]
+  },
+  {
+    "link": "us/oxford-inn-suites-houston-iah",
+    "rooms": [
+      {
+        "type": "Queen Room - Non-Smoking",
+        "price": "42.23",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room - Disability Access/Non-Smoking",
+        "price": "42.23",
+        "left": "2"
+      },
+      {
+        "type": "Queen Room with Roll In Shower - Disability Access Non-Smoking",
+        "price": "42.23",
+        "left": "1"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "47.16",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/abilene-5695-south-first-street",
+    "rooms": [
+      {
+        "type": "King Suite",
+        "price": "47.45",
+        "left": "8"
+      },
+      {
+        "type": "Queen Suite with Two Queen Beds",
+        "price": "56.95",
+        "left": "10"
+      }
+    ]
+  },
+  {
+    "link": "us/candlewood-suites-farmers-branch",
+    "rooms": [
+      {
+        "type": "Studio Queen Suite - Non-Smoking",
+        "price": "99",
+        "left": "1"
+      },
+      {
+        "type": "Standard Room",
+        "price": "99",
+        "left": "6"
+      },
+      {
+        "type": "Queen Studio Suite with Two Queen Beds - Non-Smoking",
+        "price": "109",
+        "left": "6"
+      },
+      {
+        "type": "King Studio Suite - Non-Smoking",
+        "price": "119",
+        "left": "2"
+      },
+      {
+        "type": "King Room - Mobility Access Tub/Non-Smoking",
+        "price": "129",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/san-antonio-601-south-saint-marys-street",
+    "rooms": [
+      {
+        "type": "Guestroom 2 Doubles",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "Guestroom 1 King",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "Ada King Tub",
+        "price": "119",
+        "left": "1"
+      },
+      {
+        "type": "1King Riverview",
+        "price": "124",
+        "left": "9"
+      },
+      {
+        "type": "Riverview Two Double Beds",
+        "price": "124",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/omni-frisco-cowboys",
+    "rooms": [
+      {
+        "type": "Deluxe Queen Room with Two Queen Beds",
+        "price": "239",
+        "left": "4"
+      },
+      {
+        "type": "Deluxe King Room",
+        "price": "249",
+        "left": "8"
+      },
+      {
+        "type": "Executive King Room",
+        "price": "439",
+        "left": "2"
+      },
+      {
+        "type": "Premier King Room",
+        "price": "284",
+        "left": "8"
+      },
+      {
+        "type": "Premier Queen Room with Two Queen Beds",
+        "price": "284",
+        "left": "2"
+      },
+      {
+        "type": "ADA Premier Room - 1 King Bed",
+        "price": "284",
+        "left": "1"
+      },
+      {
+        "type": "Plaza Suite - 1 King Bed",
+        "price": "344",
+        "left": "4"
+      },
+      {
+        "type": "Frisco Suite with View - 1 King Bed",
+        "price": "394",
+        "left": "1"
+      },
+      {
+        "type": "Plaza Suite with View - 1 King Bed",
+        "price": "394",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/best-western-premier-historic-travelers-alamo-riverwalk",
+    "rooms": [
+      {
+        "type": "Queen Room",
+        "price": "94.46",
+        "left": "3"
+      },
+      {
+        "type": "King Room - Non Smoking",
+        "price": "134.95",
+        "left": "4"
+      },
+      {
+        "type": "King Room with Bath Tub - Disability Access/Non-Smoking",
+        "price": "134.95",
+        "left": "2"
+      },
+      {
+        "type": "Double Room with Two Double Beds",
+        "price": "107.96",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/red-roof-inn-suites-beaumont",
+    "rooms": [
+      {
+        "type": "Business King Room - Non Smoking",
+        "price": "44.63",
+        "left": "7"
+      },
+      {
+        "type": "Business King Room - Smoking",
+        "price": "44.63",
+        "left": "9"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Smoking",
+        "price": "44.63",
+        "left": "7"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "45.35",
+        "left": "6"
+      },
+      {
+        "type": "Superior King Room - Non-Smoking",
+        "price": "48.23",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Double Room with Two Double Beds - Non-Smoking",
+        "price": "48.23",
+        "left": "9"
+      },
+      {
+        "type": "King Suite with Kitchen - Non-Smoking",
+        "price": "51.83",
+        "left": "6"
+      },
+      {
+        "type": "King Suite with Kitchen - Smoking",
+        "price": "51.83",
+        "left": "3"
+      },
+      {
+        "type": "Suite with Two Full Beds and Kitchen - Non Smoking",
+        "price": "51.83",
+        "left": "5"
+      },
+      {
+        "type": "Suite with Two Double Beds - Disability Access/Non-smoking",
+        "price": "51.83",
+        "left": "1"
+      },
+      {
+        "type": "Suite with Two Full Beds and Kitchen - Smoking",
+        "price": "51.83",
+        "left": "2"
+      }
+    ]
+  },
+  {
+    "link": "us/la-quinta-inn-suites-irving",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "King Room",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access",
+        "price": "119",
+        "left": "2"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Disability Access",
+        "price": "119",
+        "left": "1"
+      },
+      {
+        "type": "Executive King Room",
+        "price": "129",
+        "left": "6"
+      },
+      {
+        "type": "Executive Queen Room with Two Queen Beds",
+        "price": "129",
+        "left": "7"
+      }
+    ]
+  },
+  {
+    "link": "us/hyatt-place-austin-round-rock",
+    "rooms": [
+      {
+        "type": "Guestroom King, Sofabed",
+        "price": "104",
+        "left": "9"
+      },
+      {
+        "type": "Ada Shower King Guestroom, Sofabed",
+        "price": "104",
+        "left": "1"
+      },
+      {
+        "type": "2 Queen Guestroom, Sofabed",
+        "price": "104",
+        "left": "9"
+      },
+      {
+        "type": "High Floor King Guestroom, Sofabed",
+        "price": "109",
+        "left": "9"
+      },
+      {
+        "type": "High Floor 2 Queen Guestroom , Sofabed",
+        "price": "109",
+        "left": "8"
+      },
+      {
+        "type": "Ada Tub King Guestroom, Sofabed",
+        "price": "114",
+        "left": "1"
+      },
+      {
+        "type": "Ada Tub 2 Queen Guestroom, Sofabed",
+        "price": "114",
+        "left": "3"
+      }
+    ]
+  },
+  {
+    "link": "us/hampton-inn-suites-san-antonio-northeast-i-35",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "114",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds with Bath Tub - Hearing Access/Non-Smoking",
+        "price": "114",
+        "left": "2"
+      },
+      {
+        "type": "King Suite - Non-Smoking",
+        "price": "124",
+        "left": "8"
+      }
+    ]
+  },
+  {
+    "link": "us/wingate-mcallen-78514",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "109",
+        "left": "9"
+      },
+      {
+        "type": "King Room - Disability Access/Non-Smoking",
+        "price": "109",
+        "left": "2"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "119",
+        "left": "9"
+      },
+      {
+        "type": "Deluxe Queen Room - Disability Access/Non-Smoking",
+        "price": "119",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-express-suites-austin-nw-four-points",
+    "rooms": [
+      {
+        "type": "Leisure King Room - Non-Smoking",
+        "price": "95",
+        "left": "6"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "95",
+        "left": "6"
+      },
+      {
+        "type": "King Suite",
+        "price": "115",
+        "left": "5"
+      },
+      {
+        "type": "Twin Room - Non-Smoking",
+        "price": "134",
+        "left": "6"
+      }
+    ]
+  },
+  {
+    "link": "us/sleep-inn-amp-suites-austin-northeast",
+    "rooms": [
+      {
+        "type": "Queen Room with Two Queen Beds",
+        "price": "99",
+        "left": "5"
+      },
+      {
+        "type": "King Suite with Sofa Bed - Non-Smoking",
+        "price": "104",
+        "left": "5"
+      },
+      {
+        "type": "King Room with Two King Beds",
+        "price": "114",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/microtel-inn-suites-by-wyndham-arlington-dallas-area",
+    "rooms": [
+      {
+        "type": "Queen Room - Non-Smoking",
+        "price": "65.95",
+        "left": "9"
+      },
+      {
+        "type": "Queen Room - Disability Access/Non-Smoking",
+        "price": "65.95",
+        "left": "1"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "75.95",
+        "left": "9"
+      }
+    ]
+  },
+  {
+    "link": "us/hotel-s-donnybrook-ave-tyler",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "84",
+        "left": "5"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "84",
+        "left": "5"
+      },
+      {
+        "type": "King Suite - Non-Smoking",
+        "price": "104",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-express-suites-houston-kingwood",
+    "rooms": [
+      {
+        "type": "Room Selected at Check-In",
+        "price": "85",
+        "left": "6"
+      },
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "85",
+        "left": "6"
+      },
+      {
+        "type": "Queen Room with Two Queen Beds - Non-Smoking",
+        "price": "85",
+        "left": "6"
+      },
+      {
+        "type": "King Room with Sofa Bed - Non-Smoking",
+        "price": "95",
+        "left": "4"
+      },
+      {
+        "type": "One-Bedroom King Suite - Non-Smoking",
+        "price": "125",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/holiday-inn-corpus-christi-airport-convention-center",
+    "rooms": [
+      {
+        "type": "Standard Room - Non-Smoking",
+        "price": "124",
+        "left": "6"
+      },
+      {
+        "type": "Double Room with Two Double Beds - Non-Smoking",
+        "price": "124",
+        "left": "6"
+      },
+      {
+        "type": "Executive King Room - Non-Smoking",
+        "price": "124",
+        "left": "6"
+      },
+      {
+        "type": "Double Room",
+        "price": "124",
+        "left": "6"
+      },
+      {
+        "type": "Executive King Suite - Non-Smoking",
+        "price": "154",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/residence-inn-fort-worth-cultural-district",
+    "rooms": [
+      {
+        "type": "Deluxe King Studio",
+        "price": "169",
+        "left": "5"
+      }
+    ]
+  },
+  {
+    "link": "us/rockwall-966-east-interstate-30",
+    "rooms": [
+      {
+        "type": "King Room - Non-Smoking",
+        "price": "119.99",
+        "left": "4"
+      },
+      {
+        "type": "Deluxe Double Room with Two Double Beds - Non-Smoking",
+        "price": "139.99",
+        "left": "1"
+      },
+      {
+        "type": "Deluxe Double Room with Two Double Beds - Disability Access",
+        "price": "139.99",
+        "left": "1"
+      },
+      {
+        "type": "King Suite with Sofa Bed - Non-Smoking",
+        "price": "159.99",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/taylors-perch",
+    "rooms": [
+      {
+        "type": "Two Bedroom House",
+        "price": "214",
+        "left": "1"
+      }
+    ]
+  },
+  {
+    "link": "us/house-houston",
+    "rooms": [
+      {
+        "type": "King Room",
+        "price": "70",
+        "left": "10"
+      },
+      {
+        "type": "Double Room",
+        "price": "80",
+        "left": "2"
+      }
+    ]
+  }
+]
