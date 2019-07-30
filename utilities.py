@@ -143,27 +143,30 @@ def get_listing_information_by_url(url):
     
     r = get("https://www.booking.com/hotel/" + url+ ".en-gb.html")
     b = BeautifulSoup(r.content, "lxml")
-    details = {
-        'url': url, 
-        'type': b.select("#hp_hotel_name")[0].get_text().split("\n")[1],
-        'name': b.select("#hp_hotel_name")[0].get_text().split("\n")[2],
-        'address': b.select(".hp_address_subtitle.js-hp_address_subtitle.jq_tooltip")[0].get_text().replace("\n", ""),
-        'rating': -1,
-        'number_reviews': -1,
-        'last_reviewed': "",
-        'room_types': [a.get_text().replace("\n", "") for a in b.select(".jqrt.togglelink")]
-    }
-    ratings_div = b.select(".bui-review-score__badge")
-    if ratings_div:
-        details['rating'] =  float(ratings_div[0].get_text())
+    try:
+        details = {
+            'url': url, 
+            'type': b.select("#hp_hotel_name")[0].get_text().split("\n")[1],
+            'name': b.select("#hp_hotel_name")[0].get_text().split("\n")[2],
+            'address': b.select(".hp_address_subtitle.js-hp_address_subtitle.jq_tooltip")[0].get_text().replace("\n", ""),
+            'rating': -1,
+            'number_reviews': -1,
+            'last_reviewed': "",
+            'room_types': [a.get_text().replace("\n", "") for a in b.select(".jqrt.togglelink")]
+        }
+        ratings_div = b.select(".bui-review-score__badge")
+        if ratings_div:
+            details['rating'] =  float(ratings_div[0].get_text())
 
-    n_reviews_div = b.select(".bui-review-score__text")
-    if n_reviews_div:
-        details['number_reviews'] = int(n_reviews_div[0].get_text().replace(" reviews", "").replace(",",""))
-    
-    last_reviewed_div = b.select(".review_item_date")
-    if last_reviewed_div:
-        details['last_reviewed'] = last_reviewed_div[0].get_text().replace("\n", "").replace("Reviewed: ", "")
-    coordinate =b.select("#hotel_header")[0].attrs['data-atlas-latlng']
-    details['lat'], details['lng'] = [float(x) for x in coordinate.split(",")]
-    return details
+        n_reviews_div = b.select(".bui-review-score__text")
+        if n_reviews_div:
+            details['number_reviews'] = int(n_reviews_div[0].get_text().replace(" reviews", "").replace(",",""))
+
+        last_reviewed_div = b.select(".review_item_date")
+        if last_reviewed_div:
+            details['last_reviewed'] = last_reviewed_div[0].get_text().replace("\n", "").replace("Reviewed: ", "")
+        coordinate =b.select("#hotel_header")[0].attrs['data-atlas-latlng']
+        details['lat'], details['lng'] = [float(x) for x in coordinate.split(",")]
+        return details
+    except:
+        return None

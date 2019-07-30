@@ -15,7 +15,7 @@ def get_links_by_location_file(driver_link, r_file, w_file):
             
 
             
-def get_availabilities_by_url_file(filename, date_in, date_out, driver_link):
+def get_availabilities_by_url_file(filename, date_in, date_out, driver_link, page=0):
     """ Open filename, read the formated links, 
        and write the availablity of each listing to json files
     """
@@ -25,12 +25,12 @@ def get_availabilities_by_url_file(filename, date_in, date_out, driver_link):
     # read all the links that will be processed
     f = open(filename, "r")
     links = [l[:-1] for l in f]
-
+    links = links[page*200:]
     # initialize how the files will be splited
-    files = 0
+    files = page
     info = []
     index = 0
-
+    
     
     for address in links:
         index += 1
@@ -52,15 +52,16 @@ def get_availabilities_by_url_file(filename, date_in, date_out, driver_link):
         json.dump(info, fw, indent=2)
             
             
-def get_listings_information_by_url_file(filename):
+def get_listings_information_by_url_file(filename, page=0):
     """ Open filename, read the formated links, 
        and write the information of each listing to json files
     """
     
     f = open(filename, "r")
     links = [l[:-1] for l in f]
+    links = links[(page+1) * 200:]
     
-    files = 0
+    files = page
     info = []
     index = 0
     
@@ -76,7 +77,8 @@ def get_listings_information_by_url_file(filename):
             info.clear()
             index = 0
             files += 1
-            
-        info.append(get_listing_information_by_url(address))
+        gotten = get_listing_information_by_url(address)
+        if gotten:
+            info.append(gotten)
     with open("./information/i"+str(files)+".json", "w") as fw:
                 json.dump(info, fw, indent=2)
