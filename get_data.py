@@ -36,7 +36,7 @@ def get_availabilities_by_url_file(filename, date_in, date_out, driver_link, pag
         index += 1
         
         # when a certain number of links are scraped, store them as a file
-        if index == 5:
+        if index == 200:
             with open("./avalibility/"+date_in+"_"+str(files)+".json", "w") as fw:
                 json.dump(info, fw, indent=2)
             print("---write to: "+date_in+"_"+str(files)+".json---")
