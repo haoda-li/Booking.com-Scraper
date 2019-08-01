@@ -50,6 +50,7 @@ def get_availabilities_by_url_file(filename, date_in, date_out, driver_link, pag
             info.append(availability)
     with open("./avalibility/"+date_in+"_"+str(files)+".json", "w") as fw:
         json.dump(info, fw, indent=2)
+    print("---write to: "+date_in+"_"+str(files)+".json---")
             
             
 def get_listings_information_by_url_file(filename, page=0):
@@ -81,4 +82,5 @@ def get_listings_information_by_url_file(filename, page=0):
         if gotten:
             info.append(gotten)
     with open("./information/i"+str(files)+".json", "w") as fw:
-                json.dump(info, fw, indent=2)
+        json.dump(info, fw, indent=2)
+    print("---write to: i"+str(files)+".json---")
