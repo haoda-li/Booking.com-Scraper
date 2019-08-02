@@ -14,7 +14,7 @@ __Listings information (Delivered as csv and json)__
  - __url__ the compressed url. You can see the website details by `http://booking.com/hotel/`__url__`.en-gb.html`
  - __type__ whether the accommodation is a hotel, apartment, or other type
  - __name__ name of the accommodation
- -__address__ the general address provided publically, note that this might not be the exact address
+ - __address__ the general address provided publically, note that this might not be the exact address
  - __lat, lng__ the latitude and longitude, note that this might not be the exact address
  - __rating__ note that rating only applies to hotels, not apartment. `-1` indicates not applicable
  - __number_reviewed__ note that reviews only applies to hotels, not apartment. `-1` indicates not applicable
