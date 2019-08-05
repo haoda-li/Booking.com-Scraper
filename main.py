@@ -3,6 +3,7 @@ from get_data import *
 from format_raw_info import *
 import datetime
 import os
+import sys
 
 MAIN = 0
 CONFIG = 1
@@ -47,7 +48,7 @@ def main_menu(config):
 	print("2. Run Scraper for listing information")
 	print("3. Run Scraper for listing avalibility")
 	print("4. Change config")
-	print("INPUT q TO EXIT")
+	print("q. Exit")
 	option = input("> ")
 	while True:
 		if option == "1":
@@ -58,10 +59,15 @@ def main_menu(config):
 			get_listings_information_by_url_file(config['links'], config['temp'])
 			save_raw_listing_info(config['temp'], config['data'])
 			return MAIN
+			
 		elif option == "3":
+			today = datetime.date.today()
+			tomorrow = today + datetime.timedelta(days=1)
+			today_s = today.strftime("%Y-%m-%d")
+			tmr_s = tomorrow.strftime("%Y-%m-%d")
 			try:
-				print("\nINPUT CHECK-IN CHECK-OUT TIME AS [YYYY-MM-DD YYYY-MM-DD]")
-				print("OTHERWISE TODAY TOMORROW WILL BE USED")
+				print("\nInput CHECK-IN CHECK-OUT date as [YYYY-MM-DD YYYY-MM-DD]")
+				print("Otherwise using " + today_s +" " + tmr_s)
 				get = input("> ")
 				if get == "q":
 					return MAIN
@@ -69,10 +75,6 @@ def main_menu(config):
 				datetime.strptime(date_in, "%Y-%m-%d")
 				datetime.strptime(date_out, "%Y-%m-%d")
 			except:
-				today = datetime.date.today()
-				tomorrow = today + datetime.timedelta(days=1)
-				today_s = today.strftime("%Y-%m-%d")
-				tmr_s = tomorrow.strftime("%Y-%m-%d")
 				date_in, date_out = today_s, tmr_s
 			get_availabilities_by_url_file(config['links'], date_in, date_out, config['driver'], config['temp'])
 			save_raw_avalibility(config['temp'], config['data'], date_in, date_out)
@@ -91,12 +93,12 @@ def main_menu(config):
 
 def config_menu(config):
 	print("CURRENT CONFIG:")
-	print("[Q] [" + config['query'] + "] - search queries (txt file for multiple queries)")
-	print("[L] [" + config['links'] + "] - output of found links from search")
-	print("[D] [" + config['data'] + "] - folder to store accomendation information and avalibility")
-	print("[T] [" + config['temp'] + "] - folder for intermediate or temp data")
-	print("[R] [" + config['driver'] + "] - filename of the chrome driver")
-	print("INPUT q TO GO BACK TO MAIN\nINPUT [OPTION] [DEST] TO CHNAGE CONFIG")
+	print("[Q " + config['query'] + "] - search queries (txt file, each line with one query)")
+	print("[L " + config['links'] + "] - output of found links from search")
+	print("[D " + config['data'] + "] - folder to store accomendation information and avalibility")
+	print("[T " + config['temp'] + "] - folder for intermediate or temp data")
+	print("[R " + config['driver'] + "] - filename of the chrome driver")
+	print("\nq. EXIT TO MAIN\nINPUT [Q|L|D|T|R] [PATH] TO CHNAGE CONFIG")
 	while True:
 		get = input("> ")
 		if get == "q":
@@ -108,7 +110,6 @@ def config_menu(config):
 			if t in target.keys():
 				config[target[t]] = v
 				save_config(config)
-
 		except: 
 			pass
 
@@ -117,6 +118,21 @@ def config_menu(config):
 if __name__ == "__main__":
 	state = MAIN
 	config = load_config()
+	if not (os.path.isfile(config['driver'])):
+		print("\n===IMPORTANT=== NO DRIVER INSTALLED, CHECK CONFIG\n")
+		config_menu(config)
+	config = load_config()
+	if not os.path.isfile(config['driver']):
+		print("NO DRIVER INSTALLED, DOWNLOAD https://chromedriver.chromium.org/downloads\n")
+		sys.exit(0)
+	if not (os.path.isfile(config['query']) and config['data'] != "" and config['temp'] != "" and config['links'] != ""):
+		print("\nCHECK CONFIG FOR MISSING VALUES\n")
+		config_menu(config)
+	config = load_config()
+	if not (os.path.isfile(config['query']) and config['data'] != "" and config['temp'] != "" and config['links'] != ""):
+		print("CHECK CONFIG FOR MISSING VALUES")
+		sys.exit(0)
+	
 
 	while state != QUIT:
 		print()

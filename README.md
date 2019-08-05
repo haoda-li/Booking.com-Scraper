@@ -1,13 +1,18 @@
 # Booking.com Scraper
 
-Scrape <a href="https://www.booking.com">Booking.com</a> hotels listings, information, and availabilities. 
+CLI for scraping <a href="https://www.booking.com">Booking.com</a> hotels listings, information, and availabilities. 
 
 The scraper is designated for reseach project on Texas hotel tax evasions. The research project is conducted and supervised by Yao Luo, under Department of Economics, University of Toronto. 
 
 ## Installations
-Python ver. 3.6+
+1. Python ver.3.6+ with pip/conda installed
+2. Download <a href="https://chromedriver.chromium.org/downloads">Chrome driver</a> and put it in the same project folder
+3. Install required packages
+	- with pip `pip install -r requirements.txt`   
+	- or with anaconda  `conda install --file requirements.txt`  
+4. Run the main program `python main.py`, follow the config instructions   
 
-`pip install -r requirements.txt`
+
 
 ## Data Format
 __Listings information (Delivered as csv and json)__
