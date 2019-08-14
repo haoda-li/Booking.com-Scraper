@@ -135,6 +135,8 @@ def get_availabilities_by_url(url, date_in, date_out, driver):
         }
     except exceptions.NoSuchElementException:
         return None
+    except Exception:
+        return None
 
 def get_listing_information_by_url(url):
     """ Given the hotel url, 
