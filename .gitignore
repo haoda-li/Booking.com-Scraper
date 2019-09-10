@@ -106,8 +106,6 @@ venv.bak/
 chromedriver
 chromedriver.exe
 
-data/
-
 avalibility/
 
 config\.json
